@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  26 SEP 2025 08:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  26 SEP 2025 08:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -244,7 +244,11 @@ LaTeX Info: Redefining \% on input line 38.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(Comp-hist-Iglesia_main.toc
+
+
+[1
+
+{C:/Users/walbe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Comp-hist-Iglesia_main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -253,9 +257,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 
-[1
-
-{C:/Users/walbe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Comp-hist-Iglesia_main.aux
+[1] (Comp-hist-Iglesia_main.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 )
@@ -265,17 +267,17 @@ L3 programming layer <2025-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5164 strings out of 468134
- 86131 string characters out of 5430740
+ 5166 strings out of 468134
+ 86193 string characters out of 5430740
  502470 words of memory out of 5000000
- 33737 multiletter control sequences out of 15000+600000
+ 33739 multiletter control sequences out of 15000+600000
  629432 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,5n,65p,544b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk>
-Output written on Comp-hist-Iglesia_main.pdf (1 page, 4418 bytes).
+ <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
+Output written on Comp-hist-Iglesia_main.pdf (2 pages, 5272 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
