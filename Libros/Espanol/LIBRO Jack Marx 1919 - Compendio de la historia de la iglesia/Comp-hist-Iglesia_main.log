@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  27 SEP 2025 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  27 SEP 2025 22:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -353,7 +353,54 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 
 LaTeX Info: Redefining \. on input line 103.
 LaTeX Info: Redefining \% on input line 103.
-[5])
+[5]
+
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+[6]
+Overfull \hbox (3.00198pt too wide) detected at line 155
+\T1/cmr/m/n/12 22.10. 
+ []
+
+
+Overfull \hbox (3.00198pt too wide) detected at line 156
+\T1/cmr/m/n/12 22.11. 
+ []
+
+
+Overfull \hbox (3.00198pt too wide) detected at line 157
+\T1/cmr/m/n/12 22.12. 
+ []
+
+
+Overfull \hbox (3.00198pt too wide) detected at line 158
+\T1/cmr/m/n/12 22.13. 
+ []
+
+
+Overfull \hbox (3.00198pt too wide) detected at line 159
+\T1/cmr/m/n/12 22.14. 
+ []
+
+
+Overfull \hbox (3.00198pt too wide) detected at line 160
+\T1/cmr/m/n/12 22.15. 
+ []
+
+
+
+LaTeX Info: Redefining \. on input line 177.
+LaTeX Info: Redefining \% on input line 177.
+[7]
+Overfull \hbox (3.00198pt too wide) detected at line 183
+\T1/cmr/m/n/12 25.10. 
+ []
+
+
+
+LaTeX Info: Redefining \. on input line 215.
+LaTeX Info: Redefining \% on input line 215.
+[8])
 \tf@toc=\write3
 \openout3 = `Comp-hist-Iglesia_main.toc'.
 
@@ -361,53 +408,57 @@ LaTeX Info: Redefining \% on input line 103.
 
 LaTeX Info: Redefining \. on input line 52.
 LaTeX Info: Redefining \% on input line 52.
-[6]
+[9]
+
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+[10
+
+]
 Cap\'{\i }tulo 1.
 
 
-[7
-
-]
+[11]
 
 LaTeX Info: Redefining \. on input line 142.
 LaTeX Info: Redefining \% on input line 142.
-[8]
+[12]
 
 LaTeX Info: Redefining \. on input line 190.
 LaTeX Info: Redefining \% on input line 190.
-[9]
+[13]
 
 LaTeX Info: Redefining \. on input line 226.
 LaTeX Info: Redefining \% on input line 226.
-[10]
+[14]
 
 LaTeX Info: Redefining \. on input line 244.
 LaTeX Info: Redefining \% on input line 244.
-[11]
+[15]
 
 LaTeX Info: Redefining \. on input line 244.
 LaTeX Info: Redefining \% on input line 244.
-[12
+[16
 
 ]
 Cap\'{\i }tulo 2.
 
 
-[13]
+[17]
 
 LaTeX Info: Redefining \. on input line 250.
 LaTeX Info: Redefining \% on input line 250.
-[14
+[18
 
 ]
 
-[15]
+[19]
 
-[16]
+[20]
 Cap\'{\i }tulo 3.
 
 
-[17
+[21
 
 ]
 Overfull \vbox (127.51166pt too high) has occurred while \output is active []
@@ -418,14 +469,14 @@ LaTeX Info: Redefining \. on input line 267.
 LaTeX Info: Redefining \% on input line 267.
 
 Overfull \hbox (226.32341pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 18 \T1/cmr/m/sl/12 CAPÍTULO 3.  CAPÍTULO PRIMERO: ESTADO RELIGIOSO Y SOCIAL DEL MUNDO, A LA APARICIÓN DEL CRISTIANISMO
+\T1/cmr/m/n/12 22 \T1/cmr/m/sl/12 CAPÍTULO 3.  CAPÍTULO PRIMERO: ESTADO RELIGIOSO Y SOCIAL DEL MUNDO, A LA APARICIÓN DEL CRISTIANISMO
  []
 
-[18]
+[22]
 Cap\'{\i }tulo 4.
 
 
-[19
+[23
 
 ]
 
@@ -433,10 +484,10 @@ LaTeX Info: Redefining \. on input line 273.
 LaTeX Info: Redefining \% on input line 273.
 
 Overfull \hbox (97.64473pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 20 \T1/cmr/m/sl/12 CAPÍTULO 4.  CAPÍTULO SEGUNDO: DESARROLLO DE LA DOCTRINA ECLESIÁSTICA. HEREJÍAS
+\T1/cmr/m/n/12 24 \T1/cmr/m/sl/12 CAPÍTULO 4.  CAPÍTULO SEGUNDO: DESARROLLO DE LA DOCTRINA ECLESIÁSTICA. HEREJÍAS
  []
 
-[20
+[24
 
 ]
 Cap\'{\i }tulo 5.
@@ -447,47 +498,47 @@ Overfull \hbox (0.62457pt too wide) in paragraph at lines 277--277
 
 
 
-[21]
+[25]
 
 LaTeX Info: Redefining \. on input line 281.
 LaTeX Info: Redefining \% on input line 281.
 
 Overfull \hbox (457.38376pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 22 \T1/cmr/m/sl/12 CAPÍTULO 5.  CAPÍTULO TERCERO: CONSTITUCIÓN DE LA IGLESIA. CULTO Y DISCIPLINA: RASGOS FUNDAMENTALES DE LA CONSTITUCIÓN ECLESIÁSTICA
+\T1/cmr/m/n/12 26 \T1/cmr/m/sl/12 CAPÍTULO 5.  CAPÍTULO TERCERO: CONSTITUCIÓN DE LA IGLESIA. CULTO Y DISCIPLINA: RASGOS FUNDAMENTALES DE LA CONSTITUCIÓN ECLESIÁSTICA
  []
 
-[22
+[26
 
 ]
 
-[23]
+[27]
 
-[24]
+[28]
 Cap\'{\i }tulo 6.
 
 
-[25
+[29
 
 ]
 
 LaTeX Info: Redefining \. on input line 286.
 LaTeX Info: Redefining \% on input line 286.
-[26
+[30
 
 ]
 Cap\'{\i }tulo 7.
 
 
-[27]
+[31]
 
 LaTeX Info: Redefining \. on input line 296.
 LaTeX Info: Redefining \% on input line 296.
 
 Overfull \hbox (99.59131pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 28 \T1/cmr/m/sl/12 CAPÍTULO 7.  CAPÍTULO SEGUNDO: DESENVOLVIMIENTO CIENTÍFICO. HEREJÍAS Y CONCILIOS
+\T1/cmr/m/n/12 32 \T1/cmr/m/sl/12 CAPÍTULO 7.  CAPÍTULO SEGUNDO: DESENVOLVIMIENTO CIENTÍFICO. HEREJÍAS Y CONCILIOS
  []
 
-[28
+[32
 
 ]
 Cap\'{\i }tulo 8.
@@ -498,31 +549,31 @@ Overfull \hbox (2.76912pt too wide) in paragraph at lines 297--297
 
 
 
-[29]
+[33]
 
 LaTeX Info: Redefining \. on input line 302.
 LaTeX Info: Redefining \% on input line 302.
-[30
+[34
 
 ]
 Cap\'{\i }tulo 9.
 
 
-[31]
+[35]
 
 LaTeX Info: Redefining \. on input line 308.
 LaTeX Info: Redefining \% on input line 308.
-[32
+[36
 
 ]
 
-[33]
+[37]
 
-[34]
+[38]
 Cap\'{\i }tulo 10.
 
 
-[35
+[39
 
 ]
 
@@ -530,65 +581,65 @@ LaTeX Info: Redefining \. on input line 317.
 LaTeX Info: Redefining \% on input line 317.
 
 Overfull \hbox (4.32318pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 36 \T1/cmr/m/sl/12 CAPÍTULO 10.  CAPÍTULO PRIMERO: EXTENSIÓN Y LIMITACIÓN DE LA IGLESIA
- []
-
-[36
-
-]
-Cap\'{\i }tulo 11.
-
-
-[37]
-
-LaTeX Info: Redefining \. on input line 322.
-LaTeX Info: Redefining \% on input line 322.
-
-Overfull \hbox (84.17749pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 38 \T1/cmr/m/sl/12 CAPÍTULO 11.  CAPÍTULO SEGUNDO: EL PONTIFICADO Y EL IMPERIO. ESTADO Y LA IGLESIA
- []
-
-[38
-
-]
-Cap\'{\i }tulo 12.
-
-
-[39]
-
-LaTeX Info: Redefining \. on input line 327.
-LaTeX Info: Redefining \% on input line 327.
-
-Overfull \hbox (65.10555pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 40 \T1/cmr/m/sl/12 CAPÍTULO 12.  CAPÍTULO TERCERO: DESARROLLO DE LA DOCTRINA. HEREJÍA Y CISMAS
+\T1/cmr/m/n/12 40 \T1/cmr/m/sl/12 CAPÍTULO 10.  CAPÍTULO PRIMERO: EXTENSIÓN Y LIMITACIÓN DE LA IGLESIA
  []
 
 [40
 
 ]
-Cap\'{\i }tulo 13.
+Cap\'{\i }tulo 11.
 
 
 [41]
 
-LaTeX Info: Redefining \. on input line 333.
-LaTeX Info: Redefining \% on input line 333.
+LaTeX Info: Redefining \. on input line 322.
+LaTeX Info: Redefining \% on input line 322.
 
-Overfull \hbox (73.5822pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 42 \T1/cmr/m/sl/12 CAPÍTULO 13.  CAPÍTULO CUARTO: CONSTITUCIÓN, DISCIPLINA, CULTO, VIDA CRISTIANA
+Overfull \hbox (84.17749pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 42 \T1/cmr/m/sl/12 CAPÍTULO 11.  CAPÍTULO SEGUNDO: EL PONTIFICADO Y EL IMPERIO. ESTADO Y LA IGLESIA
  []
 
 [42
 
 ]
+Cap\'{\i }tulo 12.
+
 
 [43]
 
-[44]
+LaTeX Info: Redefining \. on input line 327.
+LaTeX Info: Redefining \% on input line 327.
+
+Overfull \hbox (65.10555pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 44 \T1/cmr/m/sl/12 CAPÍTULO 12.  CAPÍTULO TERCERO: DESARROLLO DE LA DOCTRINA. HEREJÍA Y CISMAS
+ []
+
+[44
+
+]
+Cap\'{\i }tulo 13.
+
+
+[45]
+
+LaTeX Info: Redefining \. on input line 333.
+LaTeX Info: Redefining \% on input line 333.
+
+Overfull \hbox (73.5822pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 46 \T1/cmr/m/sl/12 CAPÍTULO 13.  CAPÍTULO CUARTO: CONSTITUCIÓN, DISCIPLINA, CULTO, VIDA CRISTIANA
+ []
+
+[46
+
+]
+
+[47]
+
+[48]
 Cap\'{\i }tulo 14.
 
 
-[45
+[49
 
 ]
 
@@ -596,77 +647,242 @@ LaTeX Info: Redefining \. on input line 342.
 LaTeX Info: Redefining \% on input line 342.
 
 Overfull \hbox (99.75014pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 46 \T1/cmr/m/sl/12 CAPÍTULO 14.  CAPÍTULO PRIMERO: EL PONTIFICADO Y EL IMPERIO. EL ESTADO Y LA IGLESIA
+\T1/cmr/m/n/12 50 \T1/cmr/m/sl/12 CAPÍTULO 14.  CAPÍTULO PRIMERO: EL PONTIFICADO Y EL IMPERIO. EL ESTADO Y LA IGLESIA
  []
 
-[46
+[50
 
 ]
 Cap\'{\i }tulo 15.
 
 
-[47]
+[51]
 
 LaTeX Info: Redefining \. on input line 347.
 LaTeX Info: Redefining \% on input line 347.
-[48
+[52
 
 ]
 Cap\'{\i }tulo 16.
 
 
-[49]
+[53]
 
 LaTeX Info: Redefining \. on input line 351.
 LaTeX Info: Redefining \% on input line 351.
-[50
+[54
 
 ]
 Cap\'{\i }tulo 17.
 
 
-[51]
+[55]
 
 LaTeX Info: Redefining \. on input line 355.
 LaTeX Info: Redefining \% on input line 355.
 
 Overfull \hbox (50.16916pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 52 \T1/cmr/m/sl/12 CAPÍTULO 17.  CAPÍTULO CUARTO: LA DOCTRINA DE LA IGLESIA Y SUS ADVERSARIOS
+\T1/cmr/m/n/12 56 \T1/cmr/m/sl/12 CAPÍTULO 17.  CAPÍTULO CUARTO: LA DOCTRINA DE LA IGLESIA Y SUS ADVERSARIOS
  []
 
-[52
+[56
 
 ]
 Cap\'{\i }tulo 18.
 
 
-[53]
+[57]
 
 LaTeX Info: Redefining \. on input line 360.
 LaTeX Info: Redefining \% on input line 360.
-[54
+[58
 
 ]
 
-[55]
+[59]
 
-[56]
+[60]
 Cap\'{\i }tulo 19.
 
 
-[57
+[61
 
 ]
 
 LaTeX Info: Redefining \. on input line 367.
 LaTeX Info: Redefining \% on input line 367.
-[58
+[62
 
 ]
 Cap\'{\i }tulo 20.
 
 
-[59] (Comp-hist-Iglesia_main.aux
+[63]
+
+LaTeX Info: Redefining \. on input line 371.
+LaTeX Info: Redefining \% on input line 371.
+
+Overfull \hbox (204.63246pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 64 \T1/cmr/m/sl/12 CAPÍTULO 20.  CAPÍTULO SEGUNDO. DESENVOLVIMIENTO DE LA DOCTRINA. HEREJÍAS. CIENCIA ECLESIÁSTICA
+ []
+
+[64
+
+]
+Cap\'{\i }tulo 21.
+
+
+[65]
+
+LaTeX Info: Redefining \. on input line 377.
+LaTeX Info: Redefining \% on input line 377.
+
+Overfull \hbox (13.56377pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 66 \T1/cmr/m/sl/12 CAPÍTULO 21.  CAPÍTULO TERCERO: CONSTITUCIÓN, CULTO Y VIDA CRISTIANA
+ []
+
+[66
+
+]
+
+[67]
+
+[68]
+Cap\'{\i }tulo 22.
+
+
+[69
+
+]
+Overfull \vbox (153.13553pt too high) has occurred while \output is active []
+
+
+
+LaTeX Info: Redefining \. on input line 394.
+LaTeX Info: Redefining \% on input line 394.
+[70]
+Cap\'{\i }tulo 23.
+
+
+[71
+
+]
+
+LaTeX Info: Redefining \. on input line 403.
+LaTeX Info: Redefining \% on input line 403.
+[72
+
+]
+Cap\'{\i }tulo 24.
+
+
+[73]
+
+LaTeX Info: Redefining \. on input line 406.
+LaTeX Info: Redefining \% on input line 406.
+
+Overfull \hbox (85.98772pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 74 \T1/cmr/m/sl/12 CAPÍTULO 24.  CAPÍTULO TERCERO: DESENVOLVIMIENTO INTERNO DEL PROTESTANTISMO
+ []
+
+[74
+
+]
+Cap\'{\i }tulo 25.
+
+
+[75]
+
+LaTeX Info: Redefining \. on input line 417.
+LaTeX Info: Redefining \% on input line 417.
+
+Overfull \hbox (57.83244pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 76 \T1/cmr/m/sl/12 CAPÍTULO 25.  CAPÍTULO CUARTO: LA IGLESIA CATÓLICA Y LA VERDADERA REFORMA
+ []
+
+[76
+
+]
+Cap\'{\i }tulo 26.
+
+
+[77]
+
+LaTeX Info: Redefining \. on input line 421.
+LaTeX Info: Redefining \% on input line 421.
+
+Overfull \hbox (34.5948pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 78 \T1/cmr/m/sl/12 CAPÍTULO 26.  CAPÍTULO QUINTO: PREPARACIÓN DE LA ÉPOCO REVOLUCIONARIA
+ []
+
+[78
+
+]
+
+[79]
+
+[80]
+Cap\'{\i }tulo 27.
+
+
+[81
+
+]
+
+LaTeX Info: Redefining \. on input line 427.
+LaTeX Info: Redefining \% on input line 427.
+
+Overfull \hbox (125.449pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 82 \T1/cmr/m/sl/12 CAPÍTULO 27.  CAPÍTULO PRIMERO: LA REVOLUCIÓN FRANCESA. SUS CONSECUENCIAS PRÓXIMAS
+ []
+
+[82
+
+]
+Cap\'{\i }tulo 28.
+
+
+[83]
+
+LaTeX Info: Redefining \. on input line 433.
+LaTeX Info: Redefining \% on input line 433.
+[84
+
+]
+Cap\'{\i }tulo 29.
+
+
+[85]
+
+LaTeX Info: Redefining \. on input line 441.
+LaTeX Info: Redefining \% on input line 441.
+
+Overfull \hbox (35.67264pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 86 \T1/cmr/m/sl/12 CAPÍTULO 29.  CAPÍTULO TERCERO: LA IGLESA CATÓLICA EN LOS DEMÁS ESTADOS
+ []
+
+[86
+
+]
+Cap\'{\i }tulo 30.
+
+
+[87]
+
+LaTeX Info: Redefining \. on input line 448.
+LaTeX Info: Redefining \% on input line 448.
+
+Overfull \hbox (18.6795pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 88 \T1/cmr/m/sl/12 CAPÍTULO 30.  CAPÍTULO CUARTO: VIDA INTERIOR Y EXTENSIÓN DE LA IGLESIA
+ []
+
+[88
+
+]
+Cap\'{\i }tulo 31.
+
+
+[89] (Comp-hist-Iglesia_main.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 )
@@ -682,11 +898,11 @@ Here is how much of TeX's memory you used:
  35034 multiletter control sequences out of 15000+600000
  638802 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,6n,66p,826b,640s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 58i,6n,66p,826b,664s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
-Output written on Comp-hist-Iglesia_main.pdf (59 pages, 208731 bytes).
+Output written on Comp-hist-Iglesia_main.pdf (89 pages, 237719 bytes).
 PDF statistics:
- 622 PDF objects out of 1000 (max. 8388607)
+ 735 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
