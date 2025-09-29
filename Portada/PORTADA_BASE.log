@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  25 SEP 2025 07:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  28 SEP 2025 21:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -291,16 +291,16 @@ LaTeX Info: Redefining \% on input line 37.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
-* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=469.75539pt
-* \textheight=650.43037pt
+* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.96826pt
+* \textheight=700.50723pt
 * \oddsidemargin=-0.00018pt
 * \evensidemargin=-0.00018pt
 * \topmargin=-37.00018pt
@@ -308,7 +308,7 @@ LaTeX Info: Redefining \% on input line 37.
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -344,15 +344,15 @@ L3 programming layer <2025-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6411 strings out of 468134
- 101062 string characters out of 5430740
- 516497 words of memory out of 5000000
- 34957 multiletter control sequences out of 15000+600000
+ 6413 strings out of 468134
+ 101096 string characters out of 5430740
+ 516438 words of memory out of 5000000
+ 34959 multiletter control sequences out of 15000+600000
  629432 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,5n,65p,463b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
-Output written on PORTADA_BASE.pdf (2 pages, 5271 bytes).
+Output written on PORTADA_BASE.pdf (2 pages, 5282 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
