@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  28 SEP 2025 21:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  28 SEP 2025 22:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -842,8 +842,8 @@ Cap\'{\i }tulo 26.
 LaTeX Info: Redefining \. on input line 737.
 LaTeX Info: Redefining \% on input line 737.
 
-Overfull \hbox (51.38193pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 82 \T1/cmr/m/sl/12 CAPÍTULO 26.  CAPÍTULO QUINTO: PREPARACIÓN DE LA ÉPOCO REVOLUCIONARIA
+Overfull \hbox (51.05147pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 82 \T1/cmr/m/sl/12 CAPÍTULO 26.  CAPÍTULO QUINTO: PREPARACIÓN DE LA ÉPOCA REVOLUCIONARIA
  []
 
 [82
@@ -923,15 +923,15 @@ L3 programming layer <2025-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6520 strings out of 468134
- 103427 string characters out of 5430740
+ 6518 strings out of 468134
+ 103399 string characters out of 5430740
  540053 words of memory out of 5000000
- 35039 multiletter control sequences out of 15000+600000
+ 35037 multiletter control sequences out of 15000+600000
  639486 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,6n,66p,976b,640s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
-Output written on Comp-hist-Iglesia_main.pdf (93 pages, 283153 bytes).
+Output written on Comp-hist-Iglesia_main.pdf (93 pages, 283202 bytes).
 PDF statistics:
  807 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
