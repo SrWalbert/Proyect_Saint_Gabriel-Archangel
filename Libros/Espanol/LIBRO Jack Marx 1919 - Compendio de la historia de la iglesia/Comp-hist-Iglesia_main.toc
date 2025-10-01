@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {2.1}Concepto de Historia Eclesiástica}{15}{}%
 \contentsline {section}{\numberline {2.2}División de Historia Eclesiástica}{16}{}%
 \contentsline {section}{\numberline {2.3}Fuentes y ciencias auxiliares de la Historia Eclesiástica}{18}{}%
-\contentsline {subsection}{\numberline {2.3.1}Colecciones de fuentes}{19}{}%
+\contentsline {subsection}{\numberline {2.3.1}Bibliografía}{19}{}%
 \contentsline {subsection}{\numberline {2.3.2}Ciencias auxiliares}{21}{}%
 \contentsline {section}{\numberline {2.4}Método de la Historia Eclesiástica}{22}{}%
 \contentsline {section}{\numberline {2.5}Desenvolvimiento de la Historia Eclesiástica}{22}{}%
