@@ -13,10 +13,10 @@
 \contentsline {section}{\numberline {2.1}Concepto de Historia Eclesiástica}{15}{}%
 \contentsline {section}{\numberline {2.2}División de Historia Eclesiástica}{16}{}%
 \contentsline {section}{\numberline {2.3}Fuentes y ciencias auxiliares de la Historia Eclesiástica}{18}{}%
-\contentsline {subsection}{\numberline {2.3.1}Colecciones de fuentes}{18}{}%
-\contentsline {subsection}{\numberline {2.3.2}Ciencias auxiliares}{20}{}%
-\contentsline {section}{\numberline {2.4}Método de la Historia Eclesiástica}{21}{}%
-\contentsline {section}{\numberline {2.5}Desenvolvimiento de la Historia Eclesiástica}{21}{}%
+\contentsline {subsection}{\numberline {2.3.1}Colecciones de fuentes}{19}{}%
+\contentsline {subsection}{\numberline {2.3.2}Ciencias auxiliares}{21}{}%
+\contentsline {section}{\numberline {2.4}Método de la Historia Eclesiástica}{22}{}%
+\contentsline {section}{\numberline {2.5}Desenvolvimiento de la Historia Eclesiástica}{22}{}%
 \contentsline {part}{I\hspace {1em}Época Pimera. Primer Período: de las persecuciones del Cristianismo hata el edicto de Constantino}{23}{}%
 \contentsline {chapter}{\numberline {3}Capítulo Primero: Estado religioso y social del mundo, a la aparición del Cristianismo}{25}{}%
 \contentsline {section}{\numberline {3.1}Estado del Judaísmo}{26}{}%
@@ -100,7 +100,7 @@
 \contentsline {section}{\numberline {13.3}El Clero. La vida monástica}{49}{}%
 \contentsline {section}{\numberline {13.4}El culto. Veneración de los Santos}{49}{}%
 \contentsline {section}{\numberline {13.5}Disciplina y vida cristiana}{49}{}%
-\contentsline {part}{IV\hspace {1em}Período Cuarto: Florecimiento de la Iglesia en la Edad Media (1073-1307)}{51}{}%
+\contentsline {part}{IV\hspace {1em}Período Cuarto: Florecimiento de la Iglesia en la Edad Media (1073 --- 1307)}{51}{}%
 \contentsline {chapter}{\numberline {14}Capítulo Primero: El Pontificado y el Imperio. El Estado y la Iglesia}{53}{}%
 \contentsline {section}{\numberline {14.1}Las ideas gregorianas}{53}{}%
 \contentsline {section}{\numberline {14.2}Conatos de reforma anteriores a San Gregorio VII}{53}{}%
@@ -127,7 +127,7 @@
 \contentsline {section}{\numberline {18.2}El culto. Los Sacramentos}{61}{}%
 \contentsline {section}{\numberline {18.3}El Arte cristiano}{61}{}%
 \contentsline {section}{\numberline {18.4}Vida y disciplina}{61}{}%
-\contentsline {part}{V\hspace {1em}Periodo Quinto: Obscurecimiento de la Autoridad Papal. Decadencia del Imperio (1307-1517)}{63}{}%
+\contentsline {part}{V\hspace {1em}Periodo Quinto: Obscurecimiento de la Autoridad Papal. Decadencia del Imperio (1307 --- 1517)}{63}{}%
 \contentsline {chapter}{\numberline {19}Capítulo Primero: Historia del Pontificado}{65}{}%
 \contentsline {section}{\numberline {19.1}El destierro de Aviñón}{65}{}%
 \contentsline {section}{\numberline {19.2}Lucha del Papa con Luis de Baviera}{65}{}%
@@ -144,7 +144,7 @@
 \contentsline {section}{\numberline {21.3}El clero secular}{69}{}%
 \contentsline {section}{\numberline {21.4}El arte cristiano}{69}{}%
 \contentsline {section}{\numberline {21.5}Culto, disciplina y vida cristiana}{69}{}%
-\contentsline {part}{VI\hspace {1em}Época Tercera: Edad moderna. Periodo Sexto. De la revolución religiosa y del absolutismo del Estado(1517-1588)}{71}{}%
+\contentsline {part}{VI\hspace {1em}Época Tercera: Edad moderna. Periodo Sexto. De la revolución religiosa y del absolutismo del Estado (1517 --- 1588)}{71}{}%
 \contentsline {chapter}{\numberline {22}Capítulo Primero}{73}{}%
 \contentsline {section}{\numberline {22.1}El Protestantismo en Alemania y Suiza}{74}{}%
 \contentsline {section}{\numberline {22.2}Causas de la gran difusión del Protestantismo}{74}{}%
