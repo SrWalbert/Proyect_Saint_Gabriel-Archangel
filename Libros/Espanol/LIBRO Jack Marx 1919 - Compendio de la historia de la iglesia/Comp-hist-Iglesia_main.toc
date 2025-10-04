@@ -1,222 +1,222 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\numberline {1}Presentación del libro}{9}{}%
-\contentsline {section}{\numberline {1.1}Información general}{9}{}%
-\contentsline {section}{\numberline {1.2}Sobre esta reedición digital}{10}{}%
-\contentsline {section}{\numberline {1.3}Prefacio}{10}{}%
-\contentsline {section}{\numberline {1.4}Aprovaciones pontificias}{11}{}%
-\contentsline {subsection}{\numberline {1.4.1}Primera carta}{11}{}%
-\contentsline {subsection}{\numberline {1.4.2}Segunda carta}{11}{}%
-\contentsline {section}{\numberline {1.5}De los prólogos del autor}{12}{}%
-\contentsline {section}{\numberline {1.6}Abreviaturas}{13}{}%
-\contentsline {chapter}{\numberline {2}Introducción}{15}{}%
-\contentsline {subsection}{\numberline {2.0.1}Bibliografía}{15}{}%
-\contentsline {section}{\numberline {2.1}Concepto de Historia Eclesiástica}{15}{}%
-\contentsline {section}{\numberline {2.2}División de Historia Eclesiástica}{16}{}%
-\contentsline {section}{\numberline {2.3}Fuentes y ciencias auxiliares de la Historia Eclesiástica}{18}{}%
-\contentsline {subsection}{\numberline {2.3.1}Bibliografía}{19}{}%
-\contentsline {subsection}{\numberline {2.3.2}Ciencias auxiliares}{22}{}%
-\contentsline {subsection}{\numberline {2.3.3}Bibliografía de `ciencias auxiliares'}{24}{}%
-\contentsline {section}{\numberline {2.4}Método de la Historia Eclesiástica}{24}{}%
-\contentsline {section}{\numberline {2.5}Desenvolvimiento de la Historia Eclesiástica}{25}{}%
-\contentsline {part}{I\hspace {1em}Época Pimera. Primer Período: de las persecuciones del Cristianismo hata el edicto de Constantino}{27}{}%
-\contentsline {chapter}{\numberline {3}Capítulo Primero: Estado religioso y social del mundo, a la aparición del Cristianismo}{29}{}%
-\contentsline {section}{\numberline {3.1}Estado del Judaísmo}{30}{}%
-\contentsline {section}{\numberline {3.2}Estado del paganismo en el Imperio Romano}{30}{}%
-\contentsline {subsection}{\numberline {3.2.1}Preparación de los paganos para el Cristianismo}{30}{}%
-\contentsline {subsection}{\numberline {3.2.2}Obstáculos para la propagación del Cristianismo}{30}{}%
-\contentsline {section}{\numberline {3.3}JesuCristo, Fundador de la Iglesia}{30}{}%
-\contentsline {section}{\numberline {3.4}La primitiva comunidad de Jerusalem}{30}{}%
-\contentsline {section}{\numberline {3.5}La Iglesia se separa de la Sinagoga. Admisión de los Gentiles}{30}{}%
-\contentsline {section}{\numberline {3.6}El apostol de las gentes: Pablo}{30}{}%
-\contentsline {section}{\numberline {3.7}San Pedro. Fundación de la Iglesia Romana}{30}{}%
-\contentsline {section}{\numberline {3.8}Los demás apóstoles: Discípulos de los apostoles}{30}{}%
-\contentsline {section}{\numberline {3.9}Causas y carácter de las persecuciones}{30}{}%
-\contentsline {section}{\numberline {3.10}Las persecuciones}{30}{}%
-\contentsline {section}{\numberline {3.11}Significado del Martirio para la Iglesia}{30}{}%
-\contentsline {section}{\numberline {3.12}El Cristianismo atacado con armas intelectuales}{30}{}%
-\contentsline {section}{\numberline {3.13}Extensión del Cristianismo al fin de las persecuciones}{30}{}%
-\contentsline {chapter}{\numberline {4}Capítulo Segundo: Desarrollo de la Doctrina Eclesiástica. Herejías}{31}{}%
-\contentsline {section}{\numberline {4.1}Herejes judaizantes}{31}{}%
-\contentsline {section}{\numberline {4.2}Gnosticismo}{31}{}%
-\contentsline {section}{\numberline {4.3}Los monarquianos}{31}{}%
-\contentsline {section}{\numberline {4.4}Ciencia y literatura cristiana}{31}{}%
-\contentsline {section}{\numberline {4.5}Desarrollo de la Doctrina Eclesiástica}{31}{}%
-\contentsline {chapter}{\numberline {5}Capítulo Tercero: Constitución de la Iglesia. Culto y Disciplina: rasgos fundamentales de la constitución eclesiástica}{33}{}%
-\contentsline {section}{\numberline {5.1}Desarrollo de la constitución}{33}{}%
-\contentsline {section}{\numberline {5.2}Vida del clero}{33}{}%
-\contentsline {section}{\numberline {5.3}Primado del Obispo de Roma}{33}{}%
-\contentsline {section}{\numberline {5.4}Bautismo y Confirmación. Controversia sobre el bautismo de los herejes}{33}{}%
-\contentsline {section}{\numberline {5.5}La disciplina penitencial. Cismas}{33}{}%
-\contentsline {section}{\numberline {5.6}El culto. Las fiestas. Controversia sobre la Pascua}{33}{}%
-\contentsline {section}{\numberline {5.7}La vida cristiana}{33}{}%
-\contentsline {part}{II\hspace {1em}Época Primera. Segundo Período: Época de luchas Dogmáticas}{35}{}%
-\contentsline {chapter}{\numberline {6}Capítulo Primero: historia externa de la Iglesia}{37}{}%
-\contentsline {section}{\numberline {6.1}Cristianismo fuera del Imperio Romano}{37}{}%
-\contentsline {section}{\numberline {6.2}Ruina del paganismo en el Imperio Romano}{37}{}%
-\contentsline {section}{\numberline {6.3}La Iglesia y el Imperio Romano}{37}{}%
-\contentsline {chapter}{\numberline {7}Capítulo Segundo: Desenvolvimiento científico. Herejías y concilios}{39}{}%
-\contentsline {section}{\numberline {7.1}Los donatistas}{39}{}%
-\contentsline {section}{\numberline {7.2}El arrianismo. Primer Consilio Universal}{39}{}%
-\contentsline {section}{\numberline {7.3}Derivaciones del Arrianismo y otras herejías simultáneas}{39}{}%
-\contentsline {section}{\numberline {7.4}El priscilianismo. Sectas menores}{39}{}%
-\contentsline {section}{\numberline {7.5}El pelagianismo}{39}{}%
-\contentsline {section}{\numberline {7.6}El nestorianismo}{39}{}%
-\contentsline {section}{\numberline {7.7}El monofisitismo}{39}{}%
-\contentsline {section}{\numberline {7.8}El monotelismo}{39}{}%
-\contentsline {section}{\numberline {7.9}Ciencia y literatura Eclesiástica}{39}{}%
-\contentsline {chapter}{\numberline {8}Capítulo Tercero: La constitución Eclesiástica}{41}{}%
-\contentsline {section}{\numberline {8.1}Perfeccionamiento y multiplicación de los oficios eclesiásticos}{41}{}%
-\contentsline {section}{\numberline {8.2}Primado del Obispo de Roma}{41}{}%
-\contentsline {section}{\numberline {8.3}Los Sínodos}{41}{}%
-\contentsline {section}{\numberline {8.4}El Clero}{41}{}%
-\contentsline {section}{\numberline {8.5}Vida monástica}{41}{}%
-\contentsline {chapter}{\numberline {9}Capítulo Cuarto: Culto, disciplina y vida cristiana}{43}{}%
-\contentsline {section}{\numberline {9.1}Sacramentos: La Santa Misa}{43}{}%
-\contentsline {section}{\numberline {9.2}Derecho penal. Penitencia pública}{43}{}%
-\contentsline {section}{\numberline {9.3}Templos, ayunos, festividades religiosas}{43}{}%
-\contentsline {section}{\numberline {9.4}Culto de los Santos y sus reliquias. Romerías}{43}{}%
-\contentsline {section}{\numberline {9.5}La vida cristiana}{43}{}%
-\contentsline {part}{III\hspace {1em}Época Segunda. Tercer Período: Desde la irrupción de los bárbaros hasta el pontificado de San Gregorio VII}{45}{}%
-\contentsline {chapter}{\numberline {10}Capítulo Primero: Extensión y limitación de la Iglesia}{47}{}%
-\contentsline {section}{\numberline {10.1}Las incursiones de los bárbaros y sus próximos efectos}{47}{}%
-\contentsline {section}{\numberline {10.2}Conversión de los Francos}{47}{}%
-\contentsline {section}{\numberline {10.3}El Cristianismo en las islas Británicas}{47}{}%
-\contentsline {section}{\numberline {10.4}Conversión de Alemania}{47}{}%
-\contentsline {section}{\numberline {10.5}Conversión de los pueblos Escandinavos}{47}{}%
-\contentsline {section}{\numberline {10.6}Conversión de los Eslavos y los Húngaros}{47}{}%
-\contentsline {section}{\numberline {10.7}El Islam como enemigo de la Cristiandad}{47}{}%
-\contentsline {chapter}{\numberline {11}Capítulo Segundo: El Pontificado y el Imperio. Estado y la Iglesia}{49}{}%
-\contentsline {section}{\numberline {11.1}Formación del Estado de la Iglesia}{49}{}%
-\contentsline {section}{\numberline {11.2}Restablecimiento del Imperio de Occidente}{49}{}%
-\contentsline {section}{\numberline {11.3}El pontificado y el Imperio desde San CarloMagno hasta San Gregorio VII}{49}{}%
-\contentsline {section}{\numberline {11.4}El Estado y la Iglesia en los reinos germánicos}{49}{}%
-\contentsline {chapter}{\numberline {12}Capítulo Tercero: Desarrollo de la Doctrina. Herejía y Cismas}{51}{}%
-\contentsline {section}{\numberline {12.1}Los iconoclastas y el VII Consilio Universal}{51}{}%
-\contentsline {section}{\numberline {12.2}El Cisma Griego. El VIII Consilio Universal}{51}{}%
-\contentsline {section}{\numberline {12.3}Controversias dogmáticas en Occidente}{51}{}%
-\contentsline {section}{\numberline {12.4}La Ciencia cristiana}{51}{}%
-\contentsline {chapter}{\numberline {13}Capítulo Cuarto: Constitución, disciplina, culto, vida cristiana}{53}{}%
-\contentsline {section}{\numberline {13.1}La Jerarquía. Erección de diócesis}{53}{}%
-\contentsline {section}{\numberline {13.2}Colecciones de Cánones. El Pseudo-Isidoro}{53}{}%
-\contentsline {section}{\numberline {13.3}El Clero. La vida monástica}{53}{}%
-\contentsline {section}{\numberline {13.4}El culto. Veneración de los Santos}{53}{}%
-\contentsline {section}{\numberline {13.5}Disciplina y vida cristiana}{53}{}%
-\contentsline {part}{IV\hspace {1em}Período Cuarto: Florecimiento de la Iglesia en la Edad Media (1073 --- 1307)}{55}{}%
-\contentsline {chapter}{\numberline {14}Capítulo Primero: El Pontificado y el Imperio. El Estado y la Iglesia}{57}{}%
-\contentsline {section}{\numberline {14.1}Las ideas gregorianas}{57}{}%
-\contentsline {section}{\numberline {14.2}Conatos de reforma anteriores a San Gregorio VII}{57}{}%
-\contentsline {section}{\numberline {14.3}La contienda de las investiduras. San Gregorio VII}{57}{}%
-\contentsline {section}{\numberline {14.4}Consecuencias de la contiendad de las investiduras. X Consilio Universal}{57}{}%
-\contentsline {section}{\numberline {14.5}Lucha de los Emperadores de la Casa de Suabia con los papas. Inocencio III}{57}{}%
-\contentsline {section}{\numberline {14.6}Contiendas eclesiásticas en Inglaterra}{57}{}%
-\contentsline {section}{\numberline {14.7}El Pontificado cae bajo la influencia francesa}{57}{}%
-\contentsline {chapter}{\numberline {15}Capítulo Segundo: Historia externa de la Iglesia}{59}{}%
-\contentsline {section}{\numberline {15.1}La lucha contra el Islamismo en Europa}{59}{}%
-\contentsline {section}{\numberline {15.2}Las Cruzadas}{59}{}%
-\contentsline {section}{\numberline {15.3}Lucha contra el Paganismo. Las Misiones}{59}{}%
-\contentsline {section}{\numberline {15.4}Los judíos en la edad media}{59}{}%
-\contentsline {chapter}{\numberline {16}Capítulo Tercero: Desarrollo de la vida monástica}{61}{}%
-\contentsline {section}{\numberline {16.1}Nuevas Órdenes con reglas antiguas}{61}{}%
-\contentsline {section}{\numberline {16.2}Las dos grandes Órdenes Mendicantes}{61}{}%
-\contentsline {section}{\numberline {16.3}Las Órdenes Militares}{61}{}%
-\contentsline {chapter}{\numberline {17}Capítulo Cuarto: La Doctrina de la Iglesia y sus adversarios}{63}{}%
-\contentsline {section}{\numberline {17.1}Impugnaciones de la Iglesia. Las sectas}{63}{}%
-\contentsline {section}{\numberline {17.2}La Inquisición}{63}{}%
-\contentsline {section}{\numberline {17.3}La Ciencia eclesiástica: Escolástica y Mística}{63}{}%
-\contentsline {chapter}{\numberline {18}Capítulo Quinto: Constitución, culto, vida cristiana}{65}{}%
-\contentsline {section}{\numberline {18.1}Desarrollo de la Constitución Eclesiástica}{65}{}%
-\contentsline {section}{\numberline {18.2}El culto. Los Sacramentos}{65}{}%
-\contentsline {section}{\numberline {18.3}El Arte cristiano}{65}{}%
-\contentsline {section}{\numberline {18.4}Vida y disciplina}{65}{}%
-\contentsline {part}{V\hspace {1em}Periodo Quinto: Obscurecimiento de la Autoridad Papal. Decadencia del Imperio (1307 --- 1517)}{67}{}%
-\contentsline {chapter}{\numberline {19}Capítulo Primero: Historia del Pontificado}{69}{}%
-\contentsline {section}{\numberline {19.1}El destierro de Aviñón}{69}{}%
-\contentsline {section}{\numberline {19.2}Lucha del Papa con Luis de Baviera}{69}{}%
-\contentsline {section}{\numberline {19.3}Consecuencias del Cisma. Consilio de Basiela}{69}{}%
-\contentsline {section}{\numberline {19.4}Cisma de Occidente. Consilio de Constanza}{69}{}%
-\contentsline {section}{\numberline {19.5}Los papas de la época del renacimiento}{69}{}%
-\contentsline {chapter}{\numberline {20}Capítulo Segundo. Desenvolvimiento de la Doctrina. Herejías. Ciencia Eclesiástica}{71}{}%
-\contentsline {section}{\numberline {20.1}La Ciencia eclesiástica}{71}{}%
-\contentsline {section}{\numberline {20.2}El Renacimiento literario y la Iglesia}{71}{}%
-\contentsline {section}{\numberline {20.3}Juan Wiclef y Juan Hus. Precursores de la Reforma}{71}{}%
-\contentsline {chapter}{\numberline {21}Capítulo Tercero: Constitución, culto y vida cristiana}{73}{}%
-\contentsline {section}{\numberline {21.1}La Sede Apostólica}{73}{}%
-\contentsline {section}{\numberline {21.2}La vida monástica. Conatos de Reforma}{73}{}%
-\contentsline {section}{\numberline {21.3}El clero secular}{73}{}%
-\contentsline {section}{\numberline {21.4}El arte cristiano}{73}{}%
-\contentsline {section}{\numberline {21.5}Culto, disciplina y vida cristiana}{73}{}%
-\contentsline {part}{VI\hspace {1em}Época Tercera: Edad moderna. Periodo Sexto. De la revolución religiosa y del absolutismo del Estado (1517 --- 1588)}{75}{}%
-\contentsline {chapter}{\numberline {22}Capítulo Primero}{77}{}%
-\contentsline {section}{\numberline {22.1}El Protestantismo en Alemania y Suiza}{78}{}%
-\contentsline {section}{\numberline {22.2}Causas de la gran difusión del Protestantismo}{78}{}%
-\contentsline {section}{\numberline {22.3}Principios de la escición religiosa}{78}{}%
-\contentsline {section}{\numberline {22.4}Excomunión de Lutero}{78}{}%
-\contentsline {section}{\numberline {22.5}Lutero y la Revolución. Sus partidarios y adversarios}{78}{}%
-\contentsline {section}{\numberline {22.6}El Imperio y los novadores. División política de Alemania}{78}{}%
-\contentsline {section}{\numberline {22.7}Organización de las iglesias territoriales. Los príncipes}{78}{}%
-\contentsline {section}{\numberline {22.8}La reforma en la Suiza alemana, Zuinglio}{78}{}%
-\contentsline {section}{\numberline {22.9}La Dieta de Augsburgo de 1530. Tentativas de concordia}{78}{}%
-\contentsline {section}{\numberline {22.10}Propagación del Protestantismo en los Estados de la Liga de Schmalkalda}{78}{}%
-\contentsline {section}{\numberline {22.11}Carácter y últimos días de Lutero}{78}{}%
-\contentsline {section}{\numberline {22.12}La paz religiosa de Augsburgo}{78}{}%
-\contentsline {section}{\numberline {22.13}El Protestantismo en la Suiza francesa}{78}{}%
-\contentsline {section}{\numberline {22.14}Calvino}{78}{}%
-\contentsline {section}{\numberline {22.15}Guerras religiosas hasta la paz de Westfalia}{78}{}%
-\contentsline {chapter}{\numberline {23}Capítulo Segundo}{79}{}%
-\contentsline {section}{\numberline {23.1}La pseudo-reforma en los demás países}{79}{}%
-\contentsline {section}{\numberline {23.2}El Protestantismo en Francia}{79}{}%
-\contentsline {section}{\numberline {23.3}La reforma en los Países Bajos}{79}{}%
-\contentsline {section}{\numberline {23.4}La reforma en las Islas Británicas}{79}{}%
-\contentsline {section}{\numberline {23.5}Apostasía de los reinos del Norte}{79}{}%
-\contentsline {section}{\numberline {23.6}La reforma en los países orientales de Europa}{79}{}%
-\contentsline {section}{\numberline {23.7}Lucha contra el Protestantismo en Europa Meridional}{79}{}%
-\contentsline {section}{\numberline {23.8}Galileo}{79}{}%
-\contentsline {chapter}{\numberline {24}Capítulo Tercero: Desenvolvimiento interno del Protestantismo}{81}{}%
-\contentsline {section}{\numberline {24.1}Controversias entre las sectas}{81}{}%
-\contentsline {section}{\numberline {24.2}Constitución, culto y vida protestante}{81}{}%
-\contentsline {chapter}{\numberline {25}Capítulo Cuarto: La Iglesia Católica y la verdadera Reforma}{83}{}%
-\contentsline {section}{\numberline {25.1}Acción de los papas}{83}{}%
-\contentsline {section}{\numberline {25.2}El Concilio de Trento}{83}{}%
-\contentsline {section}{\numberline {25.3}La Compañía de Jesús}{83}{}%
-\contentsline {section}{\numberline {25.4}Las demás Órdenes y Congregaciones}{83}{}%
-\contentsline {section}{\numberline {25.5}Restauración del Catolisismo en Alemania}{83}{}%
-\contentsline {section}{\numberline {25.6}Renovación de las Ciencias Eclesiásticas}{83}{}%
-\contentsline {section}{\numberline {25.7}Controversias doctrinales. El Jansenismo}{83}{}%
-\contentsline {section}{\numberline {25.8}Las misiones extranjeras}{83}{}%
-\contentsline {section}{\numberline {25.9}Arte cristiano}{83}{}%
-\contentsline {section}{\numberline {25.10}Culto, disciplina, vida cristiana}{83}{}%
-\contentsline {chapter}{\numberline {26}Capítulo Quinto: Preparación de la época revolucionaria}{85}{}%
-\contentsline {section}{\numberline {26.1}Conatos revolucionarios en la Iglesia}{85}{}%
-\contentsline {section}{\numberline {26.2}Los Papas de la época del absolutismo}{85}{}%
-\contentsline {section}{\numberline {26.3}Incredulidad y Filo-sofismo}{85}{}%
-\contentsline {part}{VII\hspace {1em}Época de las revoluciones: Desde las revolución Francesa hasta nuestros días}{87}{}%
-\contentsline {chapter}{\numberline {27}Capítulo Primero: La Revolución Francesa. Sus consecuencias próximas}{89}{}%
-\contentsline {section}{\numberline {27.1}La revolución en Francia}{89}{}%
-\contentsline {section}{\numberline {27.2}El concordato con Francia}{89}{}%
-\contentsline {section}{\numberline {27.3}La revolución en los demás países}{89}{}%
-\contentsline {section}{\numberline {27.4}Pío VII y Napoleón}{89}{}%
-\contentsline {chapter}{\numberline {28}Capítulo Segundo}{91}{}%
-\contentsline {section}{\numberline {28.1}La Iglesia y el Estado de Alemania}{91}{}%
-\contentsline {section}{\numberline {28.2}Despotismo del Estado}{91}{}%
-\contentsline {section}{\numberline {28.3}Los concordatos alemanes}{91}{}%
-\contentsline {section}{\numberline {28.4}Despertar de la conciencia católica en Alemania}{91}{}%
-\contentsline {section}{\numberline {28.5}Impugnación del regalismo y el liberalismo}{91}{}%
-\contentsline {chapter}{\numberline {29}Capítulo Tercero: La Iglesa Católica en los demás estados}{93}{}%
-\contentsline {section}{\numberline {29.1}El Papado e Italia}{93}{}%
-\contentsline {section}{\numberline {29.2}Austria-Hungría}{93}{}%
-\contentsline {section}{\numberline {29.3}La Iglesia en Suiza}{93}{}%
-\contentsline {section}{\numberline {29.4}Francia y los Países Bajos}{93}{}%
-\contentsline {section}{\numberline {29.5}España y Portugal. La América Latina}{93}{}%
-\contentsline {section}{\numberline {29.6}La Iglesia en la Gran Bretaña y América del Norte}{93}{}%
-\contentsline {section}{\numberline {29.7}La Iglesia en Rusia y Escandinavia}{93}{}%
-\contentsline {chapter}{\numberline {30}Capítulo Cuarto: Vida interior y extensión de la Iglesia}{95}{}%
-\contentsline {section}{\numberline {30.1}Desarrollo doctrinal. Sectas. Direccionse teológicas}{95}{}%
-\contentsline {section}{\numberline {30.2}La ciencia Eclesiástica}{95}{}%
-\contentsline {section}{\numberline {30.3}La vida monástica}{95}{}%
-\contentsline {section}{\numberline {30.4}El arte cristiano}{95}{}%
-\contentsline {section}{\numberline {30.5}Disciplina, culto, vida cristiana}{95}{}%
-\contentsline {section}{\numberline {30.6}Extensión separados de la Iglesia}{95}{}%
-\contentsline {chapter}{\numberline {31}Capítulo Quinto: Cristianos separados de la Iglesia}{97}{}%
-\contentsline {section}{\numberline {31.1}El Protestantismo}{97}{}%
-\contentsline {section}{\numberline {31.2}Las iglesias griega y rusa}{97}{}%
-\contentsline {section}{\numberline {31.3}Conclusión}{97}{}%
+\contentsline {chapter}{\numberline {1}Presentación del libro}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Información general}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Sobre esta reedición digital}{10}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Prefacio}{10}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Aprovaciones pontificias}{11}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Primera carta}{11}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Segunda carta}{11}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}De los prólogos del autor}{12}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Abreviaturas}{13}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Introducción}{15}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Bibliografía}{15}{subsection.2.0.1}%
+\contentsline {section}{\numberline {2.1}Concepto de Historia Eclesiástica}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}División de Historia Eclesiástica}{16}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Fuentes y ciencias auxiliares de la Historia Eclesiástica}{18}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Bibliografía}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Ciencias auxiliares}{22}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Bibliografía de `ciencias auxiliares'}{24}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Método de la Historia Eclesiástica}{24}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Desenvolvimiento de la Historia Eclesiástica}{25}{section.2.5}%
+\contentsline {part}{I\hspace {1em}Época Pimera. Primer Período: de las persecuciones del Cristianismo hata el edicto de Constantino}{27}{part.1}%
+\contentsline {chapter}{\numberline {3}Capítulo Primero: Estado religioso y social del mundo, a la aparición del Cristianismo}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Estado del Judaísmo}{30}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Estado del paganismo en el Imperio Romano}{30}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Preparación de los paganos para el Cristianismo}{30}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Obstáculos para la propagación del Cristianismo}{30}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}JesuCristo, Fundador de la Iglesia}{30}{section.3.3}%
+\contentsline {section}{\numberline {3.4}La primitiva comunidad de Jerusalem}{30}{section.3.4}%
+\contentsline {section}{\numberline {3.5}La Iglesia se separa de la Sinagoga. Admisión de los Gentiles}{30}{section.3.5}%
+\contentsline {section}{\numberline {3.6}El apostol de las gentes: Pablo}{30}{section.3.6}%
+\contentsline {section}{\numberline {3.7}San Pedro. Fundación de la Iglesia Romana}{30}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Los demás apóstoles: Discípulos de los apostoles}{30}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Causas y carácter de las persecuciones}{30}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Las persecuciones}{30}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Significado del Martirio para la Iglesia}{30}{section.3.11}%
+\contentsline {section}{\numberline {3.12}El Cristianismo atacado con armas intelectuales}{30}{section.3.12}%
+\contentsline {section}{\numberline {3.13}Extensión del Cristianismo al fin de las persecuciones}{30}{section.3.13}%
+\contentsline {chapter}{\numberline {4}Capítulo Segundo: Desarrollo de la Doctrina Eclesiástica. Herejías}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Herejes judaizantes}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Gnosticismo}{31}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Los monarquianos}{31}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Ciencia y literatura cristiana}{31}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Desarrollo de la Doctrina Eclesiástica}{31}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Capítulo Tercero: Constitución de la Iglesia. Culto y Disciplina: rasgos fundamentales de la constitución eclesiástica}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Desarrollo de la constitución}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Vida del clero}{33}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Primado del Obispo de Roma}{33}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Bautismo y Confirmación. Controversia sobre el bautismo de los herejes}{33}{section.5.4}%
+\contentsline {section}{\numberline {5.5}La disciplina penitencial. Cismas}{33}{section.5.5}%
+\contentsline {section}{\numberline {5.6}El culto. Las fiestas. Controversia sobre la Pascua}{33}{section.5.6}%
+\contentsline {section}{\numberline {5.7}La vida cristiana}{33}{section.5.7}%
+\contentsline {part}{II\hspace {1em}Época Primera. Segundo Período: Época de luchas Dogmáticas}{35}{part.2}%
+\contentsline {chapter}{\numberline {6}Capítulo Primero: historia externa de la Iglesia}{37}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Cristianismo fuera del Imperio Romano}{37}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Ruina del paganismo en el Imperio Romano}{37}{section.6.2}%
+\contentsline {section}{\numberline {6.3}La Iglesia y el Imperio Romano}{37}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Capítulo Segundo: Desenvolvimiento científico. Herejías y concilios}{39}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Los donatistas}{39}{section.7.1}%
+\contentsline {section}{\numberline {7.2}El arrianismo. Primer Consilio Universal}{39}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Derivaciones del Arrianismo y otras herejías simultáneas}{39}{section.7.3}%
+\contentsline {section}{\numberline {7.4}El priscilianismo. Sectas menores}{39}{section.7.4}%
+\contentsline {section}{\numberline {7.5}El pelagianismo}{39}{section.7.5}%
+\contentsline {section}{\numberline {7.6}El nestorianismo}{39}{section.7.6}%
+\contentsline {section}{\numberline {7.7}El monofisitismo}{39}{section.7.7}%
+\contentsline {section}{\numberline {7.8}El monotelismo}{39}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Ciencia y literatura Eclesiástica}{39}{section.7.9}%
+\contentsline {chapter}{\numberline {8}Capítulo Tercero: La constitución Eclesiástica}{41}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Perfeccionamiento y multiplicación de los oficios eclesiásticos}{41}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Primado del Obispo de Roma}{41}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Los Sínodos}{41}{section.8.3}%
+\contentsline {section}{\numberline {8.4}El Clero}{41}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Vida monástica}{41}{section.8.5}%
+\contentsline {chapter}{\numberline {9}Capítulo Cuarto: Culto, disciplina y vida cristiana}{43}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Sacramentos: La Santa Misa}{43}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Derecho penal. Penitencia pública}{43}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Templos, ayunos, festividades religiosas}{43}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Culto de los Santos y sus reliquias. Romerías}{43}{section.9.4}%
+\contentsline {section}{\numberline {9.5}La vida cristiana}{43}{section.9.5}%
+\contentsline {part}{III\hspace {1em}Época Segunda. Tercer Período: Desde la irrupción de los bárbaros hasta el pontificado de San Gregorio VII}{45}{part.3}%
+\contentsline {chapter}{\numberline {10}Capítulo Primero: Extensión y limitación de la Iglesia}{47}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Las incursiones de los bárbaros y sus próximos efectos}{47}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Conversión de los Francos}{47}{section.10.2}%
+\contentsline {section}{\numberline {10.3}El Cristianismo en las islas Británicas}{47}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Conversión de Alemania}{47}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Conversión de los pueblos Escandinavos}{47}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Conversión de los Eslavos y los Húngaros}{47}{section.10.6}%
+\contentsline {section}{\numberline {10.7}El Islam como enemigo de la Cristiandad}{47}{section.10.7}%
+\contentsline {chapter}{\numberline {11}Capítulo Segundo: El Pontificado y el Imperio. Estado y la Iglesia}{49}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Formación del Estado de la Iglesia}{49}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Restablecimiento del Imperio de Occidente}{49}{section.11.2}%
+\contentsline {section}{\numberline {11.3}El pontificado y el Imperio desde San CarloMagno hasta San Gregorio VII}{49}{section.11.3}%
+\contentsline {section}{\numberline {11.4}El Estado y la Iglesia en los reinos germánicos}{49}{section.11.4}%
+\contentsline {chapter}{\numberline {12}Capítulo Tercero: Desarrollo de la Doctrina. Herejía y Cismas}{51}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Los iconoclastas y el VII Consilio Universal}{51}{section.12.1}%
+\contentsline {section}{\numberline {12.2}El Cisma Griego. El VIII Consilio Universal}{51}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Controversias dogmáticas en Occidente}{51}{section.12.3}%
+\contentsline {section}{\numberline {12.4}La Ciencia cristiana}{51}{section.12.4}%
+\contentsline {chapter}{\numberline {13}Capítulo Cuarto: Constitución, disciplina, culto, vida cristiana}{53}{chapter.13}%
+\contentsline {section}{\numberline {13.1}La Jerarquía. Erección de diócesis}{53}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Colecciones de Cánones. El Pseudo-Isidoro}{53}{section.13.2}%
+\contentsline {section}{\numberline {13.3}El Clero. La vida monástica}{53}{section.13.3}%
+\contentsline {section}{\numberline {13.4}El culto. Veneración de los Santos}{53}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Disciplina y vida cristiana}{53}{section.13.5}%
+\contentsline {part}{IV\hspace {1em}Período Cuarto: Florecimiento de la Iglesia en la Edad Media (1073 --- 1307)}{55}{part.4}%
+\contentsline {chapter}{\numberline {14}Capítulo Primero: El Pontificado y el Imperio. El Estado y la Iglesia}{57}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Las ideas gregorianas}{57}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Conatos de reforma anteriores a San Gregorio VII}{57}{section.14.2}%
+\contentsline {section}{\numberline {14.3}La contienda de las investiduras. San Gregorio VII}{57}{section.14.3}%
+\contentsline {section}{\numberline {14.4}Consecuencias de la contiendad de las investiduras. X Consilio Universal}{57}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Lucha de los Emperadores de la Casa de Suabia con los papas. Inocencio III}{57}{section.14.5}%
+\contentsline {section}{\numberline {14.6}Contiendas eclesiásticas en Inglaterra}{57}{section.14.6}%
+\contentsline {section}{\numberline {14.7}El Pontificado cae bajo la influencia francesa}{57}{section.14.7}%
+\contentsline {chapter}{\numberline {15}Capítulo Segundo: Historia externa de la Iglesia}{59}{chapter.15}%
+\contentsline {section}{\numberline {15.1}La lucha contra el Islamismo en Europa}{59}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Las Cruzadas}{59}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Lucha contra el Paganismo. Las Misiones}{59}{section.15.3}%
+\contentsline {section}{\numberline {15.4}Los judíos en la edad media}{59}{section.15.4}%
+\contentsline {chapter}{\numberline {16}Capítulo Tercero: Desarrollo de la vida monástica}{61}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Nuevas Órdenes con reglas antiguas}{61}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Las dos grandes Órdenes Mendicantes}{61}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Las Órdenes Militares}{61}{section.16.3}%
+\contentsline {chapter}{\numberline {17}Capítulo Cuarto: La Doctrina de la Iglesia y sus adversarios}{63}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Impugnaciones de la Iglesia. Las sectas}{63}{section.17.1}%
+\contentsline {section}{\numberline {17.2}La Inquisición}{63}{section.17.2}%
+\contentsline {section}{\numberline {17.3}La Ciencia eclesiástica: Escolástica y Mística}{63}{section.17.3}%
+\contentsline {chapter}{\numberline {18}Capítulo Quinto: Constitución, culto, vida cristiana}{65}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Desarrollo de la Constitución Eclesiástica}{65}{section.18.1}%
+\contentsline {section}{\numberline {18.2}El culto. Los Sacramentos}{65}{section.18.2}%
+\contentsline {section}{\numberline {18.3}El Arte cristiano}{65}{section.18.3}%
+\contentsline {section}{\numberline {18.4}Vida y disciplina}{65}{section.18.4}%
+\contentsline {part}{V\hspace {1em}Periodo Quinto: Obscurecimiento de la Autoridad Papal. Decadencia del Imperio (1307 --- 1517)}{67}{part.5}%
+\contentsline {chapter}{\numberline {19}Capítulo Primero: Historia del Pontificado}{69}{chapter.19}%
+\contentsline {section}{\numberline {19.1}El destierro de Aviñón}{69}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Lucha del Papa con Luis de Baviera}{69}{section.19.2}%
+\contentsline {section}{\numberline {19.3}Consecuencias del Cisma. Consilio de Basiela}{69}{section.19.3}%
+\contentsline {section}{\numberline {19.4}Cisma de Occidente. Consilio de Constanza}{69}{section.19.4}%
+\contentsline {section}{\numberline {19.5}Los papas de la época del renacimiento}{69}{section.19.5}%
+\contentsline {chapter}{\numberline {20}Capítulo Segundo. Desenvolvimiento de la Doctrina. Herejías. Ciencia Eclesiástica}{71}{chapter.20}%
+\contentsline {section}{\numberline {20.1}La Ciencia eclesiástica}{71}{section.20.1}%
+\contentsline {section}{\numberline {20.2}El Renacimiento literario y la Iglesia}{71}{section.20.2}%
+\contentsline {section}{\numberline {20.3}Juan Wiclef y Juan Hus. Precursores de la Reforma}{71}{section.20.3}%
+\contentsline {chapter}{\numberline {21}Capítulo Tercero: Constitución, culto y vida cristiana}{73}{chapter.21}%
+\contentsline {section}{\numberline {21.1}La Sede Apostólica}{73}{section.21.1}%
+\contentsline {section}{\numberline {21.2}La vida monástica. Conatos de Reforma}{73}{section.21.2}%
+\contentsline {section}{\numberline {21.3}El clero secular}{73}{section.21.3}%
+\contentsline {section}{\numberline {21.4}El arte cristiano}{73}{section.21.4}%
+\contentsline {section}{\numberline {21.5}Culto, disciplina y vida cristiana}{73}{section.21.5}%
+\contentsline {part}{VI\hspace {1em}Época Tercera: Edad moderna. Periodo Sexto. De la revolución religiosa y del absolutismo del Estado (1517 --- 1588)}{75}{part.6}%
+\contentsline {chapter}{\numberline {22}Capítulo Primero}{77}{chapter.22}%
+\contentsline {section}{\numberline {22.1}El Protestantismo en Alemania y Suiza}{78}{section.22.1}%
+\contentsline {section}{\numberline {22.2}Causas de la gran difusión del Protestantismo}{78}{section.22.2}%
+\contentsline {section}{\numberline {22.3}Principios de la escición religiosa}{78}{section.22.3}%
+\contentsline {section}{\numberline {22.4}Excomunión de Lutero}{78}{section.22.4}%
+\contentsline {section}{\numberline {22.5}Lutero y la Revolución. Sus partidarios y adversarios}{78}{section.22.5}%
+\contentsline {section}{\numberline {22.6}El Imperio y los novadores. División política de Alemania}{78}{section.22.6}%
+\contentsline {section}{\numberline {22.7}Organización de las iglesias territoriales. Los príncipes}{78}{section.22.7}%
+\contentsline {section}{\numberline {22.8}La reforma en la Suiza alemana, Zuinglio}{78}{section.22.8}%
+\contentsline {section}{\numberline {22.9}La Dieta de Augsburgo de 1530. Tentativas de concordia}{78}{section.22.9}%
+\contentsline {section}{\numberline {22.10}Propagación del Protestantismo en los Estados de la Liga de Schmalkalda}{78}{section.22.10}%
+\contentsline {section}{\numberline {22.11}Carácter y últimos días de Lutero}{78}{section.22.11}%
+\contentsline {section}{\numberline {22.12}La paz religiosa de Augsburgo}{78}{section.22.12}%
+\contentsline {section}{\numberline {22.13}El Protestantismo en la Suiza francesa}{78}{section.22.13}%
+\contentsline {section}{\numberline {22.14}Calvino}{78}{section.22.14}%
+\contentsline {section}{\numberline {22.15}Guerras religiosas hasta la paz de Westfalia}{78}{section.22.15}%
+\contentsline {chapter}{\numberline {23}Capítulo Segundo}{79}{chapter.23}%
+\contentsline {section}{\numberline {23.1}La pseudo-reforma en los demás países}{79}{section.23.1}%
+\contentsline {section}{\numberline {23.2}El Protestantismo en Francia}{79}{section.23.2}%
+\contentsline {section}{\numberline {23.3}La reforma en los Países Bajos}{79}{section.23.3}%
+\contentsline {section}{\numberline {23.4}La reforma en las Islas Británicas}{79}{section.23.4}%
+\contentsline {section}{\numberline {23.5}Apostasía de los reinos del Norte}{79}{section.23.5}%
+\contentsline {section}{\numberline {23.6}La reforma en los países orientales de Europa}{79}{section.23.6}%
+\contentsline {section}{\numberline {23.7}Lucha contra el Protestantismo en Europa Meridional}{79}{section.23.7}%
+\contentsline {section}{\numberline {23.8}Galileo}{79}{section.23.8}%
+\contentsline {chapter}{\numberline {24}Capítulo Tercero: Desenvolvimiento interno del Protestantismo}{81}{chapter.24}%
+\contentsline {section}{\numberline {24.1}Controversias entre las sectas}{81}{section.24.1}%
+\contentsline {section}{\numberline {24.2}Constitución, culto y vida protestante}{81}{section.24.2}%
+\contentsline {chapter}{\numberline {25}Capítulo Cuarto: La Iglesia Católica y la verdadera Reforma}{83}{chapter.25}%
+\contentsline {section}{\numberline {25.1}Acción de los papas}{83}{section.25.1}%
+\contentsline {section}{\numberline {25.2}El Concilio de Trento}{83}{section.25.2}%
+\contentsline {section}{\numberline {25.3}La Compañía de Jesús}{83}{section.25.3}%
+\contentsline {section}{\numberline {25.4}Las demás Órdenes y Congregaciones}{83}{section.25.4}%
+\contentsline {section}{\numberline {25.5}Restauración del Catolisismo en Alemania}{83}{section.25.5}%
+\contentsline {section}{\numberline {25.6}Renovación de las Ciencias Eclesiásticas}{83}{section.25.6}%
+\contentsline {section}{\numberline {25.7}Controversias doctrinales. El Jansenismo}{83}{section.25.7}%
+\contentsline {section}{\numberline {25.8}Las misiones extranjeras}{83}{section.25.8}%
+\contentsline {section}{\numberline {25.9}Arte cristiano}{83}{section.25.9}%
+\contentsline {section}{\numberline {25.10}Culto, disciplina, vida cristiana}{83}{section.25.10}%
+\contentsline {chapter}{\numberline {26}Capítulo Quinto: Preparación de la época revolucionaria}{85}{chapter.26}%
+\contentsline {section}{\numberline {26.1}Conatos revolucionarios en la Iglesia}{85}{section.26.1}%
+\contentsline {section}{\numberline {26.2}Los Papas de la época del absolutismo}{85}{section.26.2}%
+\contentsline {section}{\numberline {26.3}Incredulidad y Filo-sofismo}{85}{section.26.3}%
+\contentsline {part}{VII\hspace {1em}Época de las revoluciones: Desde las revolución Francesa hasta nuestros días}{87}{part.7}%
+\contentsline {chapter}{\numberline {27}Capítulo Primero: La Revolución Francesa. Sus consecuencias próximas}{89}{chapter.27}%
+\contentsline {section}{\numberline {27.1}La revolución en Francia}{89}{section.27.1}%
+\contentsline {section}{\numberline {27.2}El concordato con Francia}{89}{section.27.2}%
+\contentsline {section}{\numberline {27.3}La revolución en los demás países}{89}{section.27.3}%
+\contentsline {section}{\numberline {27.4}Pío VII y Napoleón}{89}{section.27.4}%
+\contentsline {chapter}{\numberline {28}Capítulo Segundo}{91}{chapter.28}%
+\contentsline {section}{\numberline {28.1}La Iglesia y el Estado de Alemania}{91}{section.28.1}%
+\contentsline {section}{\numberline {28.2}Despotismo del Estado}{91}{section.28.2}%
+\contentsline {section}{\numberline {28.3}Los concordatos alemanes}{91}{section.28.3}%
+\contentsline {section}{\numberline {28.4}Despertar de la conciencia católica en Alemania}{91}{section.28.4}%
+\contentsline {section}{\numberline {28.5}Impugnación del regalismo y el liberalismo}{91}{section.28.5}%
+\contentsline {chapter}{\numberline {29}Capítulo Tercero: La Iglesa Católica en los demás estados}{93}{chapter.29}%
+\contentsline {section}{\numberline {29.1}El Papado e Italia}{93}{section.29.1}%
+\contentsline {section}{\numberline {29.2}Austria-Hungría}{93}{section.29.2}%
+\contentsline {section}{\numberline {29.3}La Iglesia en Suiza}{93}{section.29.3}%
+\contentsline {section}{\numberline {29.4}Francia y los Países Bajos}{93}{section.29.4}%
+\contentsline {section}{\numberline {29.5}España y Portugal. La América Latina}{93}{section.29.5}%
+\contentsline {section}{\numberline {29.6}La Iglesia en la Gran Bretaña y América del Norte}{93}{section.29.6}%
+\contentsline {section}{\numberline {29.7}La Iglesia en Rusia y Escandinavia}{93}{section.29.7}%
+\contentsline {chapter}{\numberline {30}Capítulo Cuarto: Vida interior y extensión de la Iglesia}{95}{chapter.30}%
+\contentsline {section}{\numberline {30.1}Desarrollo doctrinal. Sectas. Direccionse teológicas}{95}{section.30.1}%
+\contentsline {section}{\numberline {30.2}La ciencia Eclesiástica}{95}{section.30.2}%
+\contentsline {section}{\numberline {30.3}La vida monástica}{95}{section.30.3}%
+\contentsline {section}{\numberline {30.4}El arte cristiano}{95}{section.30.4}%
+\contentsline {section}{\numberline {30.5}Disciplina, culto, vida cristiana}{95}{section.30.5}%
+\contentsline {section}{\numberline {30.6}Extensión separados de la Iglesia}{95}{section.30.6}%
+\contentsline {chapter}{\numberline {31}Capítulo Quinto: Cristianos separados de la Iglesia}{97}{chapter.31}%
+\contentsline {section}{\numberline {31.1}El Protestantismo}{97}{section.31.1}%
+\contentsline {section}{\numberline {31.2}Las iglesias griega y rusa}{97}{section.31.2}%
+\contentsline {section}{\numberline {31.3}Conclusión}{97}{section.31.3}%

@@ -6,6 +6,7 @@
 \usepackage{hyphenat} % For other packages
 \usepackage{adjustbox} % For all content (especialy matrix) get out the margin
 \usepackage[left=2.54cm, right=2.54cm, top=2.54cm, bottom=2.54cm]{geometry} % For margin on general document. 2.54cm on every side is for Appa style. Free of change it.
+\usepackage[colorlinks= true, citecolor=green, ]{hyperref}
 % Especials begg. --------------------------------------------------------
 % Here the packages you'll use just in this document
 
@@ -48,7 +49,9 @@
     {\large Traducido por \textbf{R. P. Ramón Luís Armando}}
   \end{center}
 \end{titlepage}
-\tableofcontents
+{\hypersetup{linkcolor=black}
+  \tableofcontents
+}
 \chapter{Presentación del libro}
 \section{Información general}
 \begin{flushleft}
@@ -96,8 +99,10 @@
 \section{Sobre esta reedición digital} %Por terminar
 Bienvenido estimado Lector. He aquí mi priemera obra reeditada, capturada de físico por un anónimo, salvada en formato de texto plano (.txt) de la www.z-library.sk mediante www.annas-archive.org\@. Este es un trabajo gratuito sobre una obra redactada hace más de cien años, con fin de preservar la cultura y bibliografía católica. Siéntete libre de compartirla (sin ánimo de lucro), siempre respetando el nombre del autor original.
 
-Como parte del trabajo de reedición se ha revisado la ortografía del documento con base en las reglas de la Real Academia de la Lengua Española, a modo que se cumplan sus criterios sobre la correcta forma de expresar la escritura.
+Como parte del trabajo de reedición se ha revisado la ortografía del documento con base en las reglas de la Real Academia de la Lengua Española, a modo que se cumplan sus criterios sobre la correcta forma de expresar la escritura, se añadieron ciertos comentarios en parrafos donde se considere necesario, pues este libro tiene un siglo de antiguedad. Lamentablemente no hemos podido hacer mucho con las referencias bibliograficas, pues estas están en un formato irregular a lo que se suele ver hoy en día. Además están al pie de página, lo que hace más tardada su transcripción a una base de datos `biblio.bib', de momento se encontrarán como subtítulo del capítulo a la espera de una futura revisión. Por su comprensión, gracias.\\
 Encomendando este proyecto a San Gabriel Arcángel y San Francisco de Sales: Atentamente Walbert Isaac Trejo Ayala.
+
+Obra en dominio público (cc0)
 \section{Prefacio}
 \begin{quotation}
   Enitendum magnopere, ut omnia ementita et falsa, adeundis rerum fontibus, refutentur; et illud in primis scribentium (historiam) obversetur animo, primam esse historiae legem, ne quid falsi dicere audeat, deinde ne quid veri non audeat; ne qua suspicio gratiae sit in scribendo, ne qua simultatis.\ -Est autem in scholarum usum confectio commentariorum necessaria, qui salva veritate et nullo adolescentium periculo ipsam artem historicam ilustrare et augere queant.\ Epist.\ Leonis PP.\@ XIII.\@ d.\@ 18.\@ Aug.\@ 1883.
@@ -319,7 +324,8 @@ II.\@ Las fuentes nos ofrecen la materia de la Historia Eclesiástica; pero para
         por tanto exige,\begin{enumerate}
           \item conocimiento de las Ciencias teológicas (Dogmática, Moral, Litúrgica, Derecho Canónico) que regulan la vida de la Iglesia. Es muy peligroso tratar de la Historia de la Iglesia sin conocimiento fundamental de su Dogmática.
           \item Por otra parte se necesita la Historia profana, por cuanto la vida y acción de la Iglesia está en muchas cosas condicionada por las circunstancias políticas, sociales, culturales y económicas de los pueblos. Asimismo se desenvuelve la vida de la Iglesia en el tiempo y en el espacio, por lo cual necesita auxiliarse
-          \item de la Cronologia ¹, que le sirve para entender los datos que las fuentes ofrecen sobre el tiempo de los suce1 Petavius. De doctrina temporum, Antw. 1703, etc.; L'art de vérifier les dates des faites hist. Par. 1818/20, 1/5; Mas Latrie, Trésor de chronol., d'histoire, et de géogr. pour l'étude et l'emploi des docum. du moyen-âge, Paris 1889.\\ Erassos, enseñándole las Eras, las denominaciones de los años, meses y días, etc., d) la Geografía ¹ la ilustra sobre el teatro de los sucesos, la extensión de la Iglesia y de sus partes, etc.
+          \item de la Cronologia ¹, que le sirve para entender los datos que las fuentes ofrecen sobre el tiempo de los suce1 Petavius. De doctrina temporum, Antw. 1703, etc.; L'art de vérifier les dates des faites hist. Par. 1818/20, 1/5; Mas Latrie, Trésor de chronol., d'histoire, et de géogr.\ pour l'étude et l'emploi des docum. du moyen-âge, Paris 1889.\\ Erassos, enseñándole las Eras, las denominaciones de los años, meses y días, etc., 
+          \item la Geografía ¹ la ilustra sobre el teatro de los sucesos, la extensión de la Iglesia y de sus partes, etc.
 
 
         \end{enumerate}
@@ -345,6 +351,8 @@ II.\@ Las fuentes nos ofrecen la materia de la Historia Eclesiástica; pero para
                   \item en Navidad,
                   \item en 25 de Marzo (Encarnación), y esto de dos maneras: ya comenzando el 25 de Marzo anterior al Nacimiento del Señor (Calculus Pisanus), ya el 25 de Marzo que siguió al Nacimiento (Calculus Florentinus);
                   \item en Pascua. -Hasta el siglo XVI no se hizo general comenzar el 1 de Enero. Desde la reforma del Calendario hecha por Julio César (46 a. J-C.) se contó el año en Roma de 365 / días, por lo cual, después de cada tres años, se añadía uno de 366 o bisiesto. Así duró hasta Gregorio XIII.\@ Mas como esa cuenta suponía el año `11' y `12' más largo de lo que es, el siglo XVI el equinoccio de primavera que, según el Calendario Juliano, ha de ser a 21 Marzo, caía 10 días después. Por eso se introdujo la Corrección gregoriana, haciendo que al 4 de Octubre de 1582 siguiera inmediatamente el 15 de Octubre, y que en adelante sólo fueran bisiestos los años expresados por centenas cuando éstas eran divisibles por 4; de suerte que cada 400 años se suprimen tres bisiestos del Calendario Juliano. Esta corrección no fué adoptada por los protestantes hasta el siglo XVIII, y los cismáticos griegos y rusos no la han admitido todavía.
+
+                        \textit{Nota de la reedición (Trejo, Walbert 2025): Todos los paises aceptan el calendario Gregoriano para usos civiles desde 1923, siendo Grecia el último en aplicarlo. Mas para los fines litúrgicos, algunas denominaciones cismáticas orientales utilizan el calendario Gregoriano y otras mantienen el Juliano.}
                 \end{enumerate}
         \end{enumerate}
 \end{enumerate}
@@ -353,7 +361,7 @@ II.\@ Las fuentes nos ofrecen la materia de la Historia Eclesiástica; pero para
   \item Chevalier, Topo-Bibliographie, Par.\ 1894/3.\ 1/2; Spruner-Menke, Atlas antiquus, Gotha 1865; Wiltsch, Atlas sacer s.\ eccles.\ Gothae 1843; Streit, Kath. Missions-Atlas, Steil 1905; Werner, Orbis terrarum catholicus s.\ totius eccles.\ cath.\ et occidentis et orientis conspectus geograph.\ et statisticus, Ibd.\ 1890; Le Quien, Oriens christianus, Par.\ 1740 f.\ 1/3.
   \item Stephanus, Thesaurus graece linguae, 3a ed.\ Paris 1831/65, 1/9; Du Cange, Glossarium ad scriptores mediae et infimae latinitatis, ed.\ nov.\ Favre, 1882/7.\ 1/10 4º y Gloss.\ ad script med.\ et inf, graecitatis, Lugd.\ 1388.\ 1/2.\ fol.\
   \item Silvestre, Paléographie universelle, Par.\ 18394/1, 1/4 fol.; Wattenbach, Anleitung zur lat.\ Paläogr.\ 4.\ ed.\ Leipzig 1886 4°; Id., Anleitung zur griech.\ Pal., ibd.\ 1867; Id., Das Schriftwesen des MA.\ 3.\ A.\ Ibd.\ 1896; Pflug-Hartung., Specimina palaeographica regestorum Rom.\ pont.\ ab Innocentio III.\ ad Urbanum V.\ Romae 1888 fol.
-  \item J. Mabillon, De re Diplomatica, Paris 1681, 3. ed. Neap. 1789. 1/2; (Toustain et Tassin), Nouveau traité de diplomatique, Paris 17506/5, 1/6; Giry, Manuel de dipl. Par. 1894.
+  \item J. Mabillon, De re Diplomatica, Paris 1681, 3.\ ed.\ Neap.\ 1789.\ 1/2; (Toustain et Tassin), Nouveau traité de diplomatique, Paris 17506/5, 1/6; Giry, Manuel de dipl. Par. 1894.
   \item De Rossi, introductio al vol.\ 1.\ de sus Inscriptiones (p. 9); Le Blant, L'épigraphie chrét.\ en Gaule et dans l'Afrique rom.\ Par.\ 1890; Paléographie des inscript.\ latines de la fin du 3e à la fin du 7e siècle.\ Par.\ 1898; Reinach, Traité d'épigraphie grecque.\ Par.\ 1886; Cagnat, Cours d'épigr.\ latine 3e éd.\ Par.\ 1898.
 \end{enumerate}
 \section{Método de la Historia Eclesiástica}
@@ -362,14 +370,13 @@ historiae legem, ne quid falsi dicere audeat, deinde, ne quid veri
 non audeat; ne qua suspicio gratiae sit in scribendo, ne qua
 simultatis.» En estas palabras de su célebre Carta sobre la manera
 de escribir la Historia, el Papa León XIII estableció, tomándola de
-Cicerón (De orat. II, 15), la ley suprema a que debe obedecer la His-
-toria, cuyo deber es decir la verdad, sólo la verdad y toda la verdad;
+Cicerón (De orat. II, 15), la ley suprema a que debe obedecer la Historia, cuyo deber es decir la verdad, sólo la verdad y toda la verdad;
 y esto incumbe más particularmente a la Historia Eclesiástica, la cual
 ha de servir al Reino de la verdad, que es la Iglesia de Cristo. Así
 que, ni sus inclinaciones, ni ajenos deseos, le han de separar de la
 más estricta imparcialidad. Por lo cual:
 \begin{enumerate}
-  \item 
+  \item
 \end{enumerate}
 \section{Desenvolvimiento de la Historia Eclesiástica}
 \part{Época Pimera. Primer Período: de las persecuciones del Cristianismo hata el edicto de Constantino}
