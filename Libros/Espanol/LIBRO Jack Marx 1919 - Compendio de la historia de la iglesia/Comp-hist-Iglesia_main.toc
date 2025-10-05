@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {2.3.1}Bibliografía}{19}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Ciencias auxiliares}{22}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Bibliografía de `ciencias auxiliares'}{24}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Método de la Historia Eclesiástica}{24}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Método de la Historia Eclesiástica}{25}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Desenvolvimiento de la Historia Eclesiástica}{25}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}Bibliografía}{26}{subsection.2.5.1}%
 \contentsline {part}{I\hspace {1em}Época Pimera. Primer Período: de las persecuciones del Cristianismo hata el edicto de Constantino}{27}{part.1}%
@@ -221,3 +221,4 @@
 \contentsline {section}{\numberline {31.1}El Protestantismo}{97}{section.31.1}%
 \contentsline {section}{\numberline {31.2}Las iglesias griega y rusa}{97}{section.31.2}%
 \contentsline {section}{\numberline {31.3}Conclusión}{97}{section.31.3}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{99}{chapter*.2}%
