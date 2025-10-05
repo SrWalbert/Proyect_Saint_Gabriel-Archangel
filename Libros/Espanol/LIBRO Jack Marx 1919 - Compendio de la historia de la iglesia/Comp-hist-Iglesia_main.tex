@@ -6,7 +6,7 @@
 \usepackage{hyphenat} % For other packages
 \usepackage{adjustbox} % For all content (especialy matrix) get out the margin
 \usepackage[left=2.54cm, right=2.54cm, top=2.54cm, bottom=2.54cm]{geometry} % For margin on general document. 2.54cm on every side is for Appa style. Free of change it.
-\usepackage[colorlinks= true, citecolor=green, ]{hyperref}
+
 % Especials begg. --------------------------------------------------------
 % Here the packages you'll use just in this document
 
@@ -21,7 +21,7 @@
   \definecolor{light-blue}{rgb}{0.17, 0.40, 0.69} 
 
 % Color definition End ------------------------
-
+\usepackage[colorlinks= true, citecolor=green, ]{hyperref}
 % Especials end ----------------------------------------------------------
 
 % Temporal packages begg. ------------------------------------------------
@@ -50,7 +50,7 @@
   \end{center}
 \end{titlepage}
 {\hypersetup{linkcolor=black}
-  \tableofcontents
+\tableofcontents
 }
 \chapter{Presentación del libro}
 \section{Información general}
@@ -99,7 +99,7 @@
 \section{Sobre esta reedición digital} %Por terminar
 Bienvenido estimado Lector. He aquí mi priemera obra reeditada, capturada de físico por un anónimo, salvada en formato de texto plano (.txt) de la www.z-library.sk mediante www.annas-archive.org\@. Este es un trabajo gratuito sobre una obra redactada hace más de cien años, con fin de preservar la cultura y bibliografía católica. Siéntete libre de compartirla (sin ánimo de lucro), siempre respetando el nombre del autor original.
 
-Como parte del trabajo de reedición se ha revisado la ortografía del documento con base en las reglas de la Real Academia de la Lengua Española, a modo que se cumplan sus criterios sobre la correcta forma de expresar la escritura, se añadieron ciertos comentarios en parrafos donde se considere necesario, pues este libro tiene un siglo de antiguedad. Lamentablemente no hemos podido hacer mucho con las referencias bibliograficas, pues estas están en un formato irregular a lo que se suele ver hoy en día. Además están al pie de página, lo que hace más tardada su transcripción a una base de datos `biblio.bib', de momento se encontrarán como subtítulo del capítulo a la espera de una futura revisión. Por su comprensión, gracias.\\
+Como parte del trabajo de reedición se ha revisado la ortografía del documento con base en las reglas de la Real Academia de la Lengua Española, a modo que se cumplan sus criterios sobre la correcta forma de expresar la escritura, se añadieron ciertos comentarios en párrafos donde se considere necesario, pues este libro tiene un siglo de antiguedad; se formalizó la estructura de citas, para que queden en formato pie de página como era originalmente. Lamentablemente no todos lo parráfos están completos.\\
 Encomendando este proyecto a San Gabriel Arcángel y San Francisco de Sales: Atentamente Walbert Isaac Trejo Ayala.
 
 Obra en dominio público (cc0)
@@ -109,25 +109,12 @@ Obra en dominio público (cc0)
 \end{quotation}
 
 \begin{quotation}
-  Parce que l'église, qui continue parmi les hommes la vie du Verbe ipcarné, se compose d'un élément divin et d'un élément humain, ce dernier doit être exposé par les maîtres et étudié par les élèves avec une grande probité, comme il est dit au livre de Job: «Dieu n'a pas besoin de nos mensonges». L'historien de l'église sera d'autant plus fort pour faire ressortir son origine divine, supérieure à tout concept d'ordre purement terrestre et naturel, qu'il aura été loyal à ne rien dissimuler des épreuves que les fautes de ses enfants, et parfois même de ses ministres, ont fait subir à cette Epouse du Christ dans le cours des siècles.
+  Parce que l'église, qui continue parmi les hommes la vie du Verbe ipcarné, se compose d'un élément divin et d'un élément humain, ce dernier doit être exposé par les maîtres et étudié par les élèves avec une grande probité, comme il est dit au livre de Job: «Dieu n'a pas besoin de nos mensonges». L'historien de l'église sera d'autant plus fort pour faire ressortir son origine divine, supérieure à tout concept d'ordre purement terrestre et naturel, qu'il aura été loyal à ne rien dissimuler des épreuves que les fautes de ses enfants, et parfois même de ses ministres, ont fait subir à cette Epouse du Christ dans le cours des siècles.\\
   Encycl.\@ eiusdem d.\ 8.\ Sept.\ 1899.
 \end{quotation}
 \textit{
-  \noindent NIHIL OBSTAT
-  El Censor,
-  RAMÓN LLOBEROLA
-  Barcelona, 22 de Diciembre de 1913
-  IMPRIMATUR
-  IMPRIMI POTEST
-  JOSEPHUS BARRACHINA, S. J.
-  Praepositus provinciae Aragoniae
-  El Vicario Capitular,
-  JOSÉ PALMAROLA
-  Por mandato de Su Sría.,
-  LIC.\@ SALVADOR CARRERAS, PBRO.,
-  Scrio. Canc.
-  \quad::\, Reservados\,:: \quad
-  todos los derechos.}
+  \noindent NIHIL OBSTAT El Censor, RAMÓN LLOBEROLA Barcelona, 22 de Diciembre de 1913 IMPRIMATUR IMPRIMI POTEST JOSEPHUS BARRACHINA, S. J. Praepositus provinciae Aragoniae El Vicario Capitular, JOSÉ PALMAROLA Por mandato de Su Sría., LIC.\@ SALVADOR CARRERAS, PBRO., Scrio. Canc. \quad::\, Reservados\,:: \quad todos los derechos.
+}
 \newpage
 \section{Aprovaciones pontificias}
 \subsection{Primera carta}
@@ -324,7 +311,7 @@ II.\@ Las fuentes nos ofrecen la materia de la Historia Eclesiástica; pero para
         por tanto exige,\begin{enumerate}
           \item conocimiento de las Ciencias teológicas (Dogmática, Moral, Litúrgica, Derecho Canónico) que regulan la vida de la Iglesia. Es muy peligroso tratar de la Historia de la Iglesia sin conocimiento fundamental de su Dogmática.
           \item Por otra parte se necesita la Historia profana, por cuanto la vida y acción de la Iglesia está en muchas cosas condicionada por las circunstancias políticas, sociales, culturales y económicas de los pueblos. Asimismo se desenvuelve la vida de la Iglesia en el tiempo y en el espacio, por lo cual necesita auxiliarse
-          \item de la Cronologia ¹, que le sirve para entender los datos que las fuentes ofrecen sobre el tiempo de los suce1 Petavius. De doctrina temporum, Antw. 1703, etc.; L'art de vérifier les dates des faites hist. Par. 1818/20, 1/5; Mas Latrie, Trésor de chronol., d'histoire, et de géogr.\ pour l'étude et l'emploi des docum. du moyen-âge, Paris 1889.\\ Erassos, enseñándole las Eras, las denominaciones de los años, meses y días, etc., 
+          \item de la Cronologia ¹, que le sirve para entender los datos que las fuentes ofrecen sobre el tiempo de los suce1 Petavius. De doctrina temporum, Antw. 1703, etc.; L'art de vérifier les dates des faites hist. Par. 1818/20, 1/5; Mas Latrie, Trésor de chronol., d'histoire, et de géogr.\ pour l'étude et l'emploi des docum.\ du moyen-âge, Paris 1889.\\ Erassos, enseñándole las Eras, las denominaciones de los años, meses y días, etc.,
           \item la Geografía ¹ la ilustra sobre el teatro de los sucesos, la extensión de la Iglesia y de sus partes, etc.
 
 
@@ -365,20 +352,29 @@ II.\@ Las fuentes nos ofrecen la materia de la Historia Eclesiástica; pero para
   \item De Rossi, introductio al vol.\ 1.\ de sus Inscriptiones (p. 9); Le Blant, L'épigraphie chrét.\ en Gaule et dans l'Afrique rom.\ Par.\ 1890; Paléographie des inscript.\ latines de la fin du 3e à la fin du 7e siècle.\ Par.\ 1898; Reinach, Traité d'épigraphie grecque.\ Par.\ 1886; Cagnat, Cours d'épigr.\ latine 3e éd.\ Par.\ 1898.
 \end{enumerate}
 \section{Método de la Historia Eclesiástica}
-«Illud imprimis scribentium obversetur animo, primam esse
-historiae legem, ne quid falsi dicere audeat, deinde, ne quid veri
-non audeat; ne qua suspicio gratiae sit in scribendo, ne qua
-simultatis.» En estas palabras de su célebre Carta sobre la manera
-de escribir la Historia, el Papa León XIII estableció, tomándola de
-Cicerón (De orat. II, 15), la ley suprema a que debe obedecer la Historia, cuyo deber es decir la verdad, sólo la verdad y toda la verdad;
-y esto incumbe más particularmente a la Historia Eclesiástica, la cual
-ha de servir al Reino de la verdad, que es la Iglesia de Cristo. Así
-que, ni sus inclinaciones, ni ajenos deseos, le han de separar de la
-más estricta imparcialidad. Por lo cual:
-\begin{enumerate}
-  \item
+«Illud imprimis scribentium obversetur animo, primam esse historiae legem, ne quid falsi dicere audeat, deinde, ne quid veri non audeat; ne qua suspicio gratiae sit in scribendo, ne qua simultatis.» En estas palabras de su célebre Carta sobre la manera de escribir la Historia, el Papa León XIII estableció, tomándola de Cicerón (De orat. II, 15), la ley suprema a que debe obedecer la Historia, cuyo deber es decir la verdad, sólo la verdad y toda la verdad; y esto incumbe más particularmente a la Historia Eclesiástica, la cual ha de servir al Reino de la verdad, que es la Iglesia de Cristo. Así que, ni sus inclinaciones, ni ajenos deseos, le han de separar de la más estricta imparcialidad. Por lo cual: \begin{enumerate}
+  \item Debe ser crítico, para separar lo falso, que puede hallarse en las fuentes legítimas, y excluir las fuentes que no lo sean.\begin{enumerate}
+          \item Ha de subir hasta las fuentes y examinar su legitimidad, y la competencia y veracidad de los testimonios (Crítica de las fuentes);
+          \item ha de examinar la posibilidad y verosimilitud de los hechos, rechazando los que son imposibles, por contradecir a verdades ciertas, u oponerse a las circunstancias de los tiempos, lugares y personas. Para esto necesita disponer de todo el aparato de la Critica histórica.
+        \end{enumerate}
+  \item La Historia ha de ser pragmática, pues los hechos no existen sino con dependencia de sus causas, las cuales han de ponerse de manifiesto, descubriendo las ideas, fines y móviles de los agentes (Pragmatismo filosófico); y sobre todo, la finalidad que proviene de la dirección de Dios en la Historia, particularmente de su Iglesia (Pragmatismo teológico). De este modo la Historia pone ante los ojos la acción de Dios y de los hombres.
 \end{enumerate}
+
+La objetividad, en que tanto se insiste ahora, no es sino la veracidad. Objetiva es la narración que refleja fielmente los hechos; subjetiva, por el contrario, la que los desfigura o colorea con los prejuicios del escritor. -Los incrédulos suelen exigirnos que escribamos sin presupuestos. Con este nombre se designan, en una ciencia, las verdades que la misma ciencia no demuestra; y en este sentido, ninguna ciencia hay que no los tenga, pues ninguna demuestra los principios evidentes, ni los que toma de otra ciencia superior. Lo único que se puede exigir razonablemente es, que el historiador no tergiverse ni disimule los hechos que parecen ofender sus ideas o creencias religiosas; como sería negarse a confesar las debilidades o daños que han oscurecido en determinadas épocas el elemento humano de la Iglesia. Cuanto el historiador católico está más seguro de la divinidad de la Iglesia, tanto estará más libre de la tentación de disimular las culpas de los hombres que en ella han intervenido; pues sabe que, sobre esas miserias humanas, ha de resplandecer con brillo mayor el elemento divino 1.
 \section{Desenvolvimiento de la Historia Eclesiástica}
+\begin{enumerate}
+  \item En la Antigüedad \textit{[Nota de reeditor Trejo Walbert: No hay más texto en el archivo `.txt', lo que da a entender que el párrafo se perdió en la transcripción de libro físico a susodicho formato]}.
+  \item La época de las persecuciones no era, naturalmente, a propósito para escribir historia, y los únicos trabajos que de entonces datan son las historias apócrifas de los Apóstoles, las Actas de martirios y las Crónicas de Julio Africano e Hipólito, de las que no se conservan sino fragmentos.
+  \item -El Padre de la Historia Eclesiástica es Eusebio de Cesarea de Palestina (m. 340), el cual, sobre el fundamento de la Cronografía del «Africano», escribió sus libros de Historia universal, especie de Crónica que se propone concordar la Historia universal con la bíblica y eclesiástica. Partiendo de aquí, compuso luego los diez libros de su Historia Eclesiástica, que llega hasta el a.\ 324 y es de inestimable valor por contener literal, aunque fragmentariamente, numerosas fuentes ahora perdidas. Cien años después se
+\end{enumerate}
+
+
+\subsection{Bibliografía}
+\begin{enumerate}
+  \item Incorrupta rerum gestarum monumenta\ldots per se ipso Ecclesiam et Pontificatum sponte magnificeque defendunt.\ Leo XIII.\ 1.\ c.\
+  \item Cf. Bardenhewer, Patrología 2.\ ed.\ Frbg.\ 1901.
+  \item Acerca la obra de Hegesippo v.\ § 22, 2 b.\
+\end{enumerate}
 \part{Época Pimera. Primer Período: de las persecuciones del Cristianismo hata el edicto de Constantino}
 \chapter{Capítulo Primero: Estado religioso y social del mundo, a la aparición del Cristianismo}
 \section{Estado del Judaísmo}
@@ -581,6 +577,4 @@ más estricta imparcialidad. Por lo cual:
 \section{El Protestantismo}
 \section{Las iglesias griega y rusa}
 \section{Conclusión}
-
-
 \end{document}
