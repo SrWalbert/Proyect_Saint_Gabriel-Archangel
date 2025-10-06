@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Comp-hist-Iglesia_main"] 1759638510.14974 "Comp-hist-Iglesia_main.bcf" "Comp-hist-Iglesia_main.bbl" "Comp-hist-Iglesia_main" 1759638517.85289 0
-  "Comp-hist-Iglesia_main.bcf" 1759638517 108608 e135cff3756e0923a246244de80aa9cf "pdflatex"
-  "biblio.bib" 1759638510 514 3efe817eb799c90d57232f31072e5205 ""
+["biber Comp-hist-Iglesia_main"] 1759715825.41104 "Comp-hist-Iglesia_main.bcf" "Comp-hist-Iglesia_main.bbl" "Comp-hist-Iglesia_main" 1759715834.41678 0
+  "Comp-hist-Iglesia_main.bcf" 1759715834 108608 e135cff3756e0923a246244de80aa9cf "pdflatex"
+  "biblio.bib" 1759714620 517 4dd82c547799f648832f4ea8c85e85c9 ""
   (generated)
   "Comp-hist-Iglesia_main.bbl"
   "Comp-hist-Iglesia_main.blg"
   (rewritten before read)
-["pdflatex"] 1759638515.4652 "c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO Jack Marx 1919 - Compendio de la historia de la iglesia/Comp-hist-Iglesia_main.tex" "Comp-hist-Iglesia_main.pdf" "Comp-hist-Iglesia_main" 1759638517.85356 0
+["pdflatex"] 1759715832.16801 "c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex" "Comp-hist-Iglesia_main.pdf" "Comp-hist-Iglesia_main" 1759715834.41741 0
   "C:/Users/walbe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1759638444 111117 1893ee98a909f5c79a3d60dcc05388f0 ""
   "C:/Users/walbe/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1755630456 31952 e3c3650a2d3a6dc2f83166f76307b71e ""
   "C:/Users/walbe/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1755630454 40136 a4df9814af7193111e3799794ee4f946 ""
@@ -140,13 +140,13 @@
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Comp-hist-Iglesia_main.aux" 1759638517 34400 48389c5746d7469ba1a584dcd3262d19 "pdflatex"
-  "Comp-hist-Iglesia_main.bbl" 1759638512 2590 2a7d57dcbb40c52f8c56954c2d528579 "biber Comp-hist-Iglesia_main"
-  "Comp-hist-Iglesia_main.out" 1759638517 57535 2c464e4c5ecbc10e30c48bcb547ae306 "pdflatex"
-  "Comp-hist-Iglesia_main.run.xml" 1759638517 2427 75fe2db35aa533ddb97b5a54014927d8 "pdflatex"
-  "Comp-hist-Iglesia_main.tex" 1759638403 61397 e3c179a89b508f5068e55965e7226f7f ""
-  "Comp-hist-Iglesia_main.toc" 1759638517 22283 36cc5f9eff576ea4f57232cc935f5ce9 "pdflatex"
-  "c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO Jack Marx 1919 - Compendio de la historia de la iglesia/Comp-hist-Iglesia_main.tex" 1759638403 61397 e3c179a89b508f5068e55965e7226f7f ""
+  "Comp-hist-Iglesia_main.aux" 1759715834 34404 98aecbd0730a957f0ba38e86a2366191 "pdflatex"
+  "Comp-hist-Iglesia_main.bbl" 1759715827 2590 2a7d57dcbb40c52f8c56954c2d528579 "biber Comp-hist-Iglesia_main"
+  "Comp-hist-Iglesia_main.out" 1759715834 57558 390e099f17266b34d59a9a125448c4c2 "pdflatex"
+  "Comp-hist-Iglesia_main.run.xml" 1759715834 2427 75fe2db35aa533ddb97b5a54014927d8 "pdflatex"
+  "Comp-hist-Iglesia_main.tex" 1759715012 61401 8aef40accc5ec3eae44a483e6173f53a ""
+  "Comp-hist-Iglesia_main.toc" 1759715834 22287 d9fad4d66121372679713cd4a9da32d7 "pdflatex"
+  "c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex" 1759715012 61401 8aef40accc5ec3eae44a483e6173f53a ""
   (generated)
   "Comp-hist-Iglesia_main.aux"
   "Comp-hist-Iglesia_main.bcf"

@@ -1,6 +1,6 @@
-PWD c:\Users\walbe\OneDrive\Escritorio\walbert\Proyect_Saint_Gabriel-Archangel\Libros\Espanol\LIBRO Jack Marx 1919 - Compendio de la historia de la iglesia
+PWD c:\Users\walbe\OneDrive\Escritorio\walbert\Proyect_Saint_Gabriel-Archangel\Libros\Espanol\LIBRO-J_M-Comp_hst_igl-1919
 INPUT C:\Users\walbe\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\walbe\OneDrive\Escritorio\walbert\Proyect_Saint_Gabriel-Archangel\Libros\Espanol\LIBRO Jack Marx 1919 - Compendio de la historia de la iglesia\Comp-hist-Iglesia_main.tex
+INPUT c:\Users\walbe\OneDrive\Escritorio\walbert\Proyect_Saint_Gabriel-Archangel\Libros\Espanol\LIBRO-J_M-Comp_hst_igl-1919\Comp-hist-Iglesia_main.tex
 OUTPUT Comp-hist-Iglesia_main.log
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
