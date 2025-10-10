@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Comp-hist-Iglesia_main"] 1759715825.41104 "Comp-hist-Iglesia_main.bcf" "Comp-hist-Iglesia_main.bbl" "Comp-hist-Iglesia_main" 1759715834.41678 0
-  "Comp-hist-Iglesia_main.bcf" 1759715834 108608 e135cff3756e0923a246244de80aa9cf "pdflatex"
-  "biblio.bib" 1759714620 517 4dd82c547799f648832f4ea8c85e85c9 ""
+["biber Comp-hist-Iglesia_main"] 1760073639.21028 "Comp-hist-Iglesia_main.bcf" "Comp-hist-Iglesia_main.bbl" "Comp-hist-Iglesia_main" 1760073916.20073 0
+  "Comp-hist-Iglesia_main.bcf" 1760073915 108608 e135cff3756e0923a246244de80aa9cf "pdflatex"
+  "biblio.bib" 1760063233 517 4dd82c547799f648832f4ea8c85e85c9 ""
   (generated)
   "Comp-hist-Iglesia_main.bbl"
   "Comp-hist-Iglesia_main.blg"
   (rewritten before read)
-["pdflatex"] 1759715832.16801 "c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex" "Comp-hist-Iglesia_main.pdf" "Comp-hist-Iglesia_main" 1759715834.41741 0
-  "C:/Users/walbe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1759638444 111117 1893ee98a909f5c79a3d60dcc05388f0 ""
+["pdflatex"] 1760073910.828 "c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex" "Comp-hist-Iglesia_main.pdf" "Comp-hist-Iglesia_main" 1760073916.2029 0
+  "C:/Users/walbe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1759716070 111117 1893ee98a909f5c79a3d60dcc05388f0 ""
   "C:/Users/walbe/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1755630456 31952 e3c3650a2d3a6dc2f83166f76307b71e ""
   "C:/Users/walbe/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1755630454 40136 a4df9814af7193111e3799794ee4f946 ""
   "C:/Users/walbe/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1755630461 49100 113257b35da9361d2a0e44132e3a30cb ""
@@ -106,6 +106,9 @@
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/cbx/numeric.cbx" 1752408733 4676 d3f90f6377ee43f043262aa587deb6de ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/spanish.lbx" 1752408733 47926 a9a2e5a53d52e80cf54a5601aa76edd2 ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/collectbox/collectbox.sty" 1667300686 9124 59c3b56f1a073de66e3eea35f9c173c8 ""
+  "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/csquotes/csquotes.cfg" 1712234901 7068 06f8d141725d114847527a66439066b6 ""
+  "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/csquotes/csquotes.def" 1712234901 22135 0975a49eeaed232aa861e9425ffb2e7c ""
+  "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/csquotes/csquotes.sty" 1712234901 62767 e79d6d7a989e7da62dcf3d0a65c1faee ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1739279216 46850 d87daedc2abdc653769a6f1067849fe0 ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg" 1578053545 1104 7ac475a4e3466b0b43e138e9356bda83 ""
@@ -140,13 +143,13 @@
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/walbe/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Comp-hist-Iglesia_main.aux" 1759715834 34404 98aecbd0730a957f0ba38e86a2366191 "pdflatex"
-  "Comp-hist-Iglesia_main.bbl" 1759715827 2590 2a7d57dcbb40c52f8c56954c2d528579 "biber Comp-hist-Iglesia_main"
-  "Comp-hist-Iglesia_main.out" 1759715834 57558 390e099f17266b34d59a9a125448c4c2 "pdflatex"
-  "Comp-hist-Iglesia_main.run.xml" 1759715834 2427 75fe2db35aa533ddb97b5a54014927d8 "pdflatex"
-  "Comp-hist-Iglesia_main.tex" 1759715012 61401 8aef40accc5ec3eae44a483e6173f53a ""
-  "Comp-hist-Iglesia_main.toc" 1759715834 22287 d9fad4d66121372679713cd4a9da32d7 "pdflatex"
-  "c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex" 1759715012 61401 8aef40accc5ec3eae44a483e6173f53a ""
+  "Comp-hist-Iglesia_main.aux" 1760073915 34404 0d4253e325ab004f106afc8e666bade0 "pdflatex"
+  "Comp-hist-Iglesia_main.bbl" 1760073658 2590 2a7d57dcbb40c52f8c56954c2d528579 "biber Comp-hist-Iglesia_main"
+  "Comp-hist-Iglesia_main.out" 1760073915 57558 6c8a611b626b15fbf530d75a595f0653 "pdflatex"
+  "Comp-hist-Iglesia_main.run.xml" 1760073915 2427 75fe2db35aa533ddb97b5a54014927d8 "pdflatex"
+  "Comp-hist-Iglesia_main.tex" 1760073909 61438 0bf00a785000f1302829faa25f1ed68b ""
+  "Comp-hist-Iglesia_main.toc" 1760073915 22287 ab574cbbbf291838a2efa18ccdb996b7 "pdflatex"
+  "c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex" 1760073909 61438 0bf00a785000f1302829faa25f1ed68b ""
   (generated)
   "Comp-hist-Iglesia_main.aux"
   "Comp-hist-Iglesia_main.bcf"

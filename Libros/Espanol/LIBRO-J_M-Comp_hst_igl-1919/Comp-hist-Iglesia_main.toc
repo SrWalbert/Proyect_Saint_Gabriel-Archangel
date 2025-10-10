@@ -3,7 +3,7 @@
 \contentsline {section}{\numberline {1.1}Información general}{9}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Sobre esta reedición digital}{10}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Prefacio}{10}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Aprovaciones pontificias}{11}{section.1.4}%
+\contentsline {section}{\numberline {1.4}Aprobaciones pontificias}{11}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}Primera carta}{11}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1.4.2}Segunda carta}{11}{subsection.1.4.2}%
 \contentsline {section}{\numberline {1.5}De los prólogos del autor}{12}{section.1.5}%
