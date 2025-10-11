@@ -2379,6 +2379,8 @@
     <bcf:citekey order="4" intorder="1">Silvestre1839Paleographie</bcf:citekey>
     <bcf:citekey order="5" intorder="1">Mabillon1681DeReDiplomatica</bcf:citekey>
     <bcf:citekey order="6" intorder="1">Rossi1890Introductio</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Bardenhewer1901Patrologia</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Niebuhr1829Corpus</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

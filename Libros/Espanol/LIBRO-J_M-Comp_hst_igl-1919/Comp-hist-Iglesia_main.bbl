@@ -19,6 +19,30 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{Bardenhewer1901Patrologia}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4e57f1c634012d3e486b586fa4c55e44}{%
+           family={Bardenhewer},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e57f1c634012d3e486b586fa4c55e44}
+      \strng{fullhash}{4e57f1c634012d3e486b586fa4c55e44}
+      \strng{fullhashraw}{4e57f1c634012d3e486b586fa4c55e44}
+      \strng{bibnamehash}{4e57f1c634012d3e486b586fa4c55e44}
+      \strng{authorbibnamehash}{4e57f1c634012d3e486b586fa4c55e44}
+      \strng{authornamehash}{4e57f1c634012d3e486b586fa4c55e44}
+      \strng{authorfullhash}{4e57f1c634012d3e486b586fa4c55e44}
+      \strng{authorfullhashraw}{4e57f1c634012d3e486b586fa4c55e44}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{note}{Frbg.}
+      \field{title}{Patrología}
+      \field{year}{1901}
+    \endentry
     \entry{Chevalier1894Topo}{book}{}{}
       \name{author}{1}{}{%
         {{hash=fcffe9dea8fd88dd038fe0ffae66123d}{%
@@ -63,9 +87,34 @@
       \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{J. Mabillon, De re Diplomatica, Paris 1681, 3.\ ed.\ Neap.\ 1789.\ 1/2; (Toustain et Tassin), Nouveau traité de diplomatique, Paris 17506/5, 1/6; Giry, Manuel de dipl. Par. 1894.}
+      \field{note}{J. Mabillon, De re Diplomatica, Paris 1681, 3.\ ed.\ Neap.\ 1789.\ 1/2; (Toustain et Tassin), Nouveau traité de diplomatique, Paris 17506/5, 1/6; Giry, Manuel de dipl.\ Par.\ 1894.}
       \field{title}{De re Diplomatica}
       \field{year}{1681}
+    \endentry
+    \entry{Niebuhr1829Corpus}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c7797c0aecfa8de2e4cc137b69e4e78}{%
+           family={Niebuhr},
+           familyi={N\bibinitperiod},
+           given={Barthold\bibnamedelima Georg},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c7797c0aecfa8de2e4cc137b69e4e78}
+      \strng{fullhash}{8c7797c0aecfa8de2e4cc137b69e4e78}
+      \strng{fullhashraw}{8c7797c0aecfa8de2e4cc137b69e4e78}
+      \strng{bibnamehash}{8c7797c0aecfa8de2e4cc137b69e4e78}
+      \strng{authorbibnamehash}{8c7797c0aecfa8de2e4cc137b69e4e78}
+      \strng{authornamehash}{8c7797c0aecfa8de2e4cc137b69e4e78}
+      \strng{authorfullhash}{8c7797c0aecfa8de2e4cc137b69e4e78}
+      \strng{authorfullhashraw}{8c7797c0aecfa8de2e4cc137b69e4e78}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Bonnae ss.\ 8\textsuperscript{o}. 1/20.}
+      \field{title}{Corpus scriptor}
+      \field{year}{1829}
     \endentry
     \entry{Petavius1703DeDoctrina}{book}{}{}
       \name{author}{1}{}{%
@@ -86,7 +135,7 @@
       \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Petavius.\ De doctrina temporum, Antw.\ 1703, etc.; L'art de vérifier les dates des faites hist. Par. 1818/20, 1/5; Mas Latrie, Trésor de chronol., d'histoire, et de géogr.}
+      \field{note}{Petavius.\ De doctrina temporum, Antw.\ 1703, etc.; L'art de vérifier les dates des faites hist. Par. 1818/20, 1/5; Mas Latrie, Trésor de chronol., d'histoire, et de géogr.\ pour l'étude et l'emploi des docum.\ du moyen-âge, Paris 1889.}
       \field{title}{De doctrina temporum}
       \field{year}{1703}
     \endentry
