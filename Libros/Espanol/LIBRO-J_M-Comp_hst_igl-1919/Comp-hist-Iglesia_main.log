@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  9 OCT 2025 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  10 OCT 2025 22:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -684,10 +684,33 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Comp-hist-Iglesia_main.bbl' found.
  (Comp-hist-Iglesia_main.bbl)
+Runaway argument?
+{Stephanus, Thesaurus graece linguae, 3a ed.\ Paris 1831/65, 1/9; Du \ETC.
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:41: File ended while scanning use of \field.
+<inserted text> 
+                \par 
+l.41 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 Package biblatex Info: Reference section=0 on input line 41.
 Package biblatex Info: Reference segment=0 on input line 41.
+
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:41: LaTeX Error: Loading a class or package in a group.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \begin{document}
+                     
+Classes and packages should only be loaded at the top level
+
 Package hyperref Info: Link coloring ON on input line 41.
- (Comp-hist-Iglesia_main.out) (Comp-hist-Iglesia_main.out)
+(Comp-hist-Iglesia_main.out) (Comp-hist-Iglesia_main.out)
 \@outlinefile=\write4
 \openout4 = `Comp-hist-Iglesia_main.out'.
 
@@ -712,7 +735,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (1.21704pt too wide) in paragraph at lines 22--22
+Overfull \hbox (1.21704pt too wide) in paragraph at lines 21--21
 [][][]\T1/cmr/bx/n/14.4 I Épo-ca Pi-me-ra. Pri-mer Pe-río-do: de las per-se-cu-cio-nes del Cris- 
  []
 
@@ -720,61 +743,61 @@ Overfull \hbox (1.21704pt too wide) in paragraph at lines 22--22
 
 [3]
 
-LaTeX Info: Redefining \sptext on input line 74.
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
+LaTeX Info: Redefining \sptext on input line 73.
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 74.
+(babel)             Reported on input line 73.
 [4]
 
-LaTeX Info: Redefining \sptext on input line 113.
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
+LaTeX Info: Redefining \sptext on input line 112.
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
 [5]
 
-LaTeX Info: Redefining \sptext on input line 149.
-LaTeX Info: Redefining \. on input line 149.
-LaTeX Info: Redefining \% on input line 149.
+LaTeX Info: Redefining \sptext on input line 148.
+LaTeX Info: Redefining \. on input line 148.
+LaTeX Info: Redefining \% on input line 148.
 [6]
-Overfull \hbox (3.00198pt too wide) detected at line 160
+Overfull \hbox (3.00198pt too wide) detected at line 159
 \T1/cmr/m/n/12 22.10. 
  []
 
 
-Overfull \hbox (3.00198pt too wide) detected at line 161
+Overfull \hbox (3.00198pt too wide) detected at line 160
 \T1/cmr/m/n/12 22.11. 
  []
 
 
-Overfull \hbox (3.00198pt too wide) detected at line 162
+Overfull \hbox (3.00198pt too wide) detected at line 161
 \T1/cmr/m/n/12 22.12. 
  []
 
 
-Overfull \hbox (3.00198pt too wide) detected at line 163
+Overfull \hbox (3.00198pt too wide) detected at line 162
 \T1/cmr/m/n/12 22.13. 
  []
 
 
-Overfull \hbox (3.00198pt too wide) detected at line 164
+Overfull \hbox (3.00198pt too wide) detected at line 163
 \T1/cmr/m/n/12 22.14. 
  []
 
 
-Overfull \hbox (3.00198pt too wide) detected at line 165
+Overfull \hbox (3.00198pt too wide) detected at line 164
 \T1/cmr/m/n/12 22.15. 
  []
 
 
-Overfull \hbox (3.00198pt too wide) detected at line 188
+Overfull \hbox (3.00198pt too wide) detected at line 187
 \T1/cmr/m/n/12 25.10. 
  []
 
 
 
-LaTeX Info: Redefining \sptext on input line 193.
-LaTeX Info: Redefining \. on input line 193.
-LaTeX Info: Redefining \% on input line 193.
+LaTeX Info: Redefining \sptext on input line 192.
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
 [7])
 \tf@toc=\write5
 \openout5 = `Comp-hist-Iglesia_main.toc'.
@@ -790,10 +813,45 @@ Cap\'{\i }tulo 1.
 [9
 
 ]
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:109: Undefined control sequence.
+<argument> \blx@bbl@data 
+                         
+l.109 \begin{quotation}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:113: Undefined control sequence.
+<argument> \blx@bbl@data 
+                         
+l.113 \begin{quotation}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
 
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
 [10]
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:140: Undefined control sequence.
+<argument> \blx@bbl@data 
+                         
+l.140 \begin{quotation}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
 
 LaTeX Info: Redefining \. on input line 153.
 LaTeX Info: Redefining \% on input line 153.
@@ -802,551 +860,73 @@ LaTeX Info: Redefining \% on input line 153.
 LaTeX Info: Redefining \. on input line 175.
 LaTeX Info: Redefining \% on input line 175.
 [12]
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:176: Illegal parameter number in definition of \NewCount.
+<to be read again> 
+                   1
+l.176 \begin{itemize}
+                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:176: Illegal parameter number in definition of \NewCount.
+<to be read again> 
+                   1
+l.176 \begin{itemize}
+                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:176: Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.176 \begin{itemize}
+                     
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:176: Undefined control sequence.
+<argument> \blx@bbl@data 
+                         
+l.176 \begin{itemize}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/walbe/OneDrive/Escritorio/walbert/Proyect_Saint_Gabriel-Archangel/Libros/Espanol/LIBRO-J_M-Comp_hst_igl-1919/Comp-hist-Iglesia_main.tex:176: Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.176 \begin{itemize}
+                     
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
 
-LaTeX Info: Redefining \. on input line 200.
-LaTeX Info: Redefining \% on input line 200.
-[13]
-
-LaTeX Info: Redefining \. on input line 200.
-LaTeX Info: Redefining \% on input line 200.
-[14
-
-]
-Cap\'{\i }tulo 2.
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 201.
-
-
-
-[15]
-
-LaTeX Info: Redefining \. on input line 221.
-LaTeX Info: Redefining \% on input line 221.
-[16]
-
-LaTeX Info: Redefining \. on input line 239.
-LaTeX Info: Redefining \% on input line 239.
-[17]
-
-LaTeX Info: Redefining \. on input line 256.
-LaTeX Info: Redefining \% on input line 256.
-[18]
-
-LaTeX Info: Redefining \. on input line 269.
-LaTeX Info: Redefining \% on input line 269.
-[19]
-
-LaTeX Info: Redefining \. on input line 276.
-LaTeX Info: Redefining \% on input line 276.
-[20]
-
-LaTeX Info: Redefining \. on input line 294.
-LaTeX Info: Redefining \% on input line 294.
-[21]
-
-LaTeX Info: Redefining \. on input line 317.
-LaTeX Info: Redefining \% on input line 317.
-[22]
-
-LaTeX Info: Redefining \. on input line 342.
-LaTeX Info: Redefining \% on input line 342.
-[23]
-
-LaTeX Info: Redefining \. on input line 357.
-LaTeX Info: Redefining \% on input line 357.
-[24]
-
-LaTeX Info: Redefining \. on input line 370.
-LaTeX Info: Redefining \% on input line 370.
-[25]
-
-LaTeX Info: Redefining \. on input line 380.
-LaTeX Info: Redefining \% on input line 380.
-[26]
-
-[27
-
-]
-
-[28]
-Cap\'{\i }tulo 3.
-
-
-[29
-
-]
-Overfull \vbox (77.4348pt too high) has occurred while \output is active []
-
-
-
-LaTeX Info: Redefining \. on input line 397.
-LaTeX Info: Redefining \% on input line 397.
-
-Overfull \hbox (243.11053pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 30 \T1/cmr/m/sl/12 CAPÍTULO 3.  CAPÍTULO PRIMERO: ESTADO RELIGIOSO Y SOCIAL DEL MUNDO, A LA APARICIÓN DEL CRISTIANISMO
- []
-
-[30]
-Cap\'{\i }tulo 4.
-
-
-[31
-
-]
-
-LaTeX Info: Redefining \. on input line 403.
-LaTeX Info: Redefining \% on input line 403.
-
-Overfull \hbox (114.43185pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 32 \T1/cmr/m/sl/12 CAPÍTULO 4.  CAPÍTULO SEGUNDO: DESARROLLO DE LA DOCTRINA ECLESIÁSTICA. HEREJÍAS
- []
-
-[32
-
-]
-Cap\'{\i }tulo 5.
-
-
-[33]
-
-LaTeX Info: Redefining \. on input line 411.
-LaTeX Info: Redefining \% on input line 411.
-
-Overfull \hbox (474.17088pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 34 \T1/cmr/m/sl/12 CAPÍTULO 5.  CAPÍTULO TERCERO: CONSTITUCIÓN DE LA IGLESIA. CULTO Y DISCIPLINA: RASGOS FUNDAMENTALES DE LA CONSTITUCIÓN ECLESIÁSTICA
- []
-
-[34
-
-]
-
-[35]
-
-[36]
-Cap\'{\i }tulo 6.
-
-
-[37
-
-]
-
-LaTeX Info: Redefining \. on input line 416.
-LaTeX Info: Redefining \% on input line 416.
-[38
-
-]
-Cap\'{\i }tulo 7.
-
-
-[39]
-
-LaTeX Info: Redefining \. on input line 426.
-LaTeX Info: Redefining \% on input line 426.
-
-Overfull \hbox (116.37843pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 40 \T1/cmr/m/sl/12 CAPÍTULO 7.  CAPÍTULO SEGUNDO: DESENVOLVIMIENTO CIENTÍFICO. HEREJÍAS Y CONCILIOS
- []
-
-[40
-
-]
-Cap\'{\i }tulo 8.
-
-
-[41]
-
-LaTeX Info: Redefining \. on input line 432.
-LaTeX Info: Redefining \% on input line 432.
-[42
-
-]
-Cap\'{\i }tulo 9.
-
-
-[43]
-
-LaTeX Info: Redefining \. on input line 438.
-LaTeX Info: Redefining \% on input line 438.
-[44
-
-]
-
-[45]
-
-[46]
-Cap\'{\i }tulo 10.
-
-
-[47
-
-]
-
-LaTeX Info: Redefining \. on input line 447.
-LaTeX Info: Redefining \% on input line 447.
-
-Overfull \hbox (21.1103pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 48 \T1/cmr/m/sl/12 CAPÍTULO 10.  CAPÍTULO PRIMERO: EXTENSIÓN Y LIMITACIÓN DE LA IGLESIA
- []
-
-[48
-
-]
-Cap\'{\i }tulo 11.
-
-Overfull \hbox (3.51854pt too wide) in paragraph at lines 450--450
-[]\T1/cmr/bx/n/17.28 El pon-ti-fi-ca-do y el Im-pe-rio des-de San Car-lo-Magno
- []
-
-
-
-[49]
-
-LaTeX Info: Redefining \. on input line 452.
-LaTeX Info: Redefining \% on input line 452.
-
-Overfull \hbox (100.96461pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 50 \T1/cmr/m/sl/12 CAPÍTULO 11.  CAPÍTULO SEGUNDO: EL PONTIFICADO Y EL IMPERIO. ESTADO Y LA IGLESIA
- []
-
-[50
-
-]
-Cap\'{\i }tulo 12.
-
-
-[51]
-
-LaTeX Info: Redefining \. on input line 457.
-LaTeX Info: Redefining \% on input line 457.
-
-Overfull \hbox (81.89267pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 52 \T1/cmr/m/sl/12 CAPÍTULO 12.  CAPÍTULO TERCERO: DESARROLLO DE LA DOCTRINA. HEREJÍA Y CISMAS
- []
-
-[52
-
-]
-Cap\'{\i }tulo 13.
-
-
-[53]
-
-LaTeX Info: Redefining \. on input line 463.
-LaTeX Info: Redefining \% on input line 463.
-
-Overfull \hbox (90.36932pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 54 \T1/cmr/m/sl/12 CAPÍTULO 13.  CAPÍTULO CUARTO: CONSTITUCIÓN, DISCIPLINA, CULTO, VIDA CRISTIANA
- []
-
-[54
-
-]
-
-[55]
-
-[56]
-Cap\'{\i }tulo 14.
-
-
-[57
-
-]
-
-LaTeX Info: Redefining \. on input line 472.
-LaTeX Info: Redefining \% on input line 472.
-
-Overfull \hbox (116.53726pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 58 \T1/cmr/m/sl/12 CAPÍTULO 14.  CAPÍTULO PRIMERO: EL PONTIFICADO Y EL IMPERIO. EL ESTADO Y LA IGLESIA
- []
-
-[58
-
-]
-Cap\'{\i }tulo 15.
-
-
-[59]
-
-LaTeX Info: Redefining \. on input line 477.
-LaTeX Info: Redefining \% on input line 477.
-[60
-
-]
-Cap\'{\i }tulo 16.
-
-
-[61]
-
-LaTeX Info: Redefining \. on input line 481.
-LaTeX Info: Redefining \% on input line 481.
-
-Overfull \hbox (5.71954pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 62 \T1/cmr/m/sl/12 CAPÍTULO 16.  CAPÍTULO TERCERO: DESARROLLO DE LA VIDA MONÁSTICA
- []
-
-[62
-
-]
-Cap\'{\i }tulo 17.
-
-
-[63]
-
-LaTeX Info: Redefining \. on input line 485.
-LaTeX Info: Redefining \% on input line 485.
-
-Overfull \hbox (66.95628pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 64 \T1/cmr/m/sl/12 CAPÍTULO 17.  CAPÍTULO CUARTO: LA DOCTRINA DE LA IGLESIA Y SUS ADVERSARIOS
- []
-
-[64
-
-]
-Cap\'{\i }tulo 18.
-
-
-[65]
-
-LaTeX Info: Redefining \. on input line 490.
-LaTeX Info: Redefining \% on input line 490.
-
-Overfull \hbox (12.08014pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 66 \T1/cmr/m/sl/12 CAPÍTULO 18.  CAPÍTULO QUINTO: CONSTITUCIÓN, CULTO, VIDA CRISTIANA
- []
-
-[66
-
-]
-
-[67]
-
-[68]
-Cap\'{\i }tulo 19.
-
-
-[69
-
-]
-
-LaTeX Info: Redefining \. on input line 497.
-LaTeX Info: Redefining \% on input line 497.
-[70
-
-]
-Cap\'{\i }tulo 20.
-
-
-[71]
-
-LaTeX Info: Redefining \. on input line 501.
-LaTeX Info: Redefining \% on input line 501.
-
-Overfull \hbox (221.41959pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 72 \T1/cmr/m/sl/12 CAPÍTULO 20.  CAPÍTULO SEGUNDO. DESENVOLVIMIENTO DE LA DOCTRINA. HEREJÍAS. CIENCIA ECLESIÁSTICA
- []
-
-[72
-
-]
-Cap\'{\i }tulo 21.
-
-
-[73]
-
-LaTeX Info: Redefining \. on input line 507.
-LaTeX Info: Redefining \% on input line 507.
-
-Overfull \hbox (30.35089pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 74 \T1/cmr/m/sl/12 CAPÍTULO 21.  CAPÍTULO TERCERO: CONSTITUCIÓN, CULTO Y VIDA CRISTIANA
- []
-
-[74
-
-]
-
-[75]
-
-[76]
-Cap\'{\i }tulo 22.
-
-Overfull \hbox (1.51715pt too wide) in paragraph at lines 515--515
-[]\T1/cmr/bx/n/17.28 Organización de las igle-sias te-rri-to-ria-les. Los prín-
- []
-
-
-
-[77
-
-]
-Overfull \vbox (103.05867pt too high) has occurred while \output is active []
-
-
-
-LaTeX Info: Redefining \. on input line 524.
-LaTeX Info: Redefining \% on input line 524.
-[78]
-Cap\'{\i }tulo 23.
-
-
-[79
-
-]
-
-LaTeX Info: Redefining \. on input line 533.
-LaTeX Info: Redefining \% on input line 533.
-[80
-
-]
-Cap\'{\i }tulo 24.
-
-
-[81]
-
-LaTeX Info: Redefining \. on input line 536.
-LaTeX Info: Redefining \% on input line 536.
-
-Overfull \hbox (102.77484pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 82 \T1/cmr/m/sl/12 CAPÍTULO 24.  CAPÍTULO TERCERO: DESENVOLVIMIENTO INTERNO DEL PROTESTANTISMO
- []
-
-[82
-
-]
-Cap\'{\i }tulo 25.
-
-
-[83]
-
-LaTeX Info: Redefining \. on input line 547.
-LaTeX Info: Redefining \% on input line 547.
-
-Overfull \hbox (74.61957pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 84 \T1/cmr/m/sl/12 CAPÍTULO 25.  CAPÍTULO CUARTO: LA IGLESIA CATÓLICA Y LA VERDADERA REFORMA
- []
-
-[84
-
-]
-Cap\'{\i }tulo 26.
-
-
-[85]
-
-LaTeX Info: Redefining \. on input line 551.
-LaTeX Info: Redefining \% on input line 551.
-
-Overfull \hbox (51.05147pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 86 \T1/cmr/m/sl/12 CAPÍTULO 26.  CAPÍTULO QUINTO: PREPARACIÓN DE LA ÉPOCA REVOLUCIONARIA
- []
-
-[86
-
-]
-
-[87]
-
-[88]
-Cap\'{\i }tulo 27.
-
-
-[89
-
-]
-
-LaTeX Info: Redefining \. on input line 557.
-LaTeX Info: Redefining \% on input line 557.
-
-Overfull \hbox (142.23613pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 90 \T1/cmr/m/sl/12 CAPÍTULO 27.  CAPÍTULO PRIMERO: LA REVOLUCIÓN FRANCESA. SUS CONSECUENCIAS PRÓXIMAS
- []
-
-[90
-
-]
-Cap\'{\i }tulo 28.
-
-
-[91]
-
-LaTeX Info: Redefining \. on input line 563.
-LaTeX Info: Redefining \% on input line 563.
-[92
-
-]
-Cap\'{\i }tulo 29.
-
-
-[93]
-
-LaTeX Info: Redefining \. on input line 571.
-LaTeX Info: Redefining \% on input line 571.
-
-Overfull \hbox (52.45976pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 94 \T1/cmr/m/sl/12 CAPÍTULO 29.  CAPÍTULO TERCERO: LA IGLESA CATÓLICA EN LOS DEMÁS ESTADOS
- []
-
-[94
-
-]
-Cap\'{\i }tulo 30.
-
-
-[95]
-
-LaTeX Info: Redefining \. on input line 578.
-LaTeX Info: Redefining \% on input line 578.
-
-Overfull \hbox (35.46663pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 96 \T1/cmr/m/sl/12 CAPÍTULO 30.  CAPÍTULO CUARTO: VIDA INTERIOR Y EXTENSIÓN DE LA IGLESIA
- []
-
-[96
-
-]
-Cap\'{\i }tulo 31.
-
-
-[97]
-
-LaTeX Info: Redefining \. on input line 582.
-LaTeX Info: Redefining \% on input line 582.
-
-Overfull \hbox (3.51173pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 98 \T1/cmr/m/sl/12 CAPÍTULO 31.  CAPÍTULO QUINTO: CRISTIANOS SEPARADOS DE LA IGLESIA
- []
-
-[98
-
-]
-
-[99] (Comp-hist-Iglesia_main.aux
-LaTeX Info: Redefining \sptext on input line 13.
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
 )
- ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-20>
- ***********
-Package rerunfilecheck Info: File `Comp-hist-Iglesia_main.out' has not changed.
-(rerunfilecheck)             Checksum: 6C8A611B626B15FBF530D75A595F0653;57558.
-Package logreq Info: Writing requests to 'Comp-hist-Iglesia_main.run.xml'.
-\openout1 = `Comp-hist-Iglesia_main.run.xml'.
+! Incomplete \iffalse; all text was ignored after line 176.
+<inserted text> 
+                \fi 
+<*> ...omp_hst_igl-1919/Comp-hist-Iglesia_main.tex
+                                                  
+The file ended while I was skipping conditional text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
 
- ) 
+! Emergency stop.
+<*> ...omp_hst_igl-1919/Comp-hist-Iglesia_main.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
 Here is how much of TeX's memory you used:
- 22031 strings out of 468134
- 377474 string characters out of 5430740
- 1239478 words of memory out of 5000000
- 49961 multiletter control sequences out of 15000+600000
- 646140 words of font info for 85 fonts, out of 8000000 for 9000
+ 21602 strings out of 468134
+ 371518 string characters out of 5430740
+ 1238616 words of memory out of 5000000
+ 49732 multiletter control sequences out of 15000+600000
+ 639486 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,8n,78p,1283b,2414s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
-Output written on Comp-hist-Iglesia_main.pdf (99 pages, 545530 bytes).
-PDF statistics:
- 2437 PDF objects out of 2487 (max. 8388607)
- 421 named destinations out of 1000 (max. 500000)
- 1785 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 63i,6n,70p,1264b,3230s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

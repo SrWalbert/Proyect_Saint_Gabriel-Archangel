@@ -1,14 +1,20 @@
-[0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'Comp-hist-Iglesia_main.blg'
-[206] biber-MSWIN64:342> INFO - === 
-[293] Biber.pm:421> INFO - Reading 'Comp-hist-Iglesia_main.bcf'
-[548] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
-[580] Biber.pm:4487> INFO - Processing section 0
-[607] Biber.pm:4678> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[773] bibtex.pm:1713> INFO - LaTeX decoding ...
-[781] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
-[870] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[871] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[871] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[884] bbl.pm:676> INFO - Writing 'Comp-hist-Iglesia_main.bbl' with encoding 'UTF-8'
-[889] bbl.pm:779> INFO - Output to Comp-hist-Iglesia_main.bbl
+[2] Config.pm:328> INFO - This is Biber 2.21
+[3] Config.pm:331> INFO - Logfile is 'Comp-hist-Iglesia_main.blg'
+[216] biber-MSWIN64:342> INFO - === 
+[325] Biber.pm:421> INFO - Reading 'Comp-hist-Iglesia_main.bcf'
+[531] Biber.pm:1002> INFO - Found 6 citekeys in bib section 0
+[554] Biber.pm:4487> INFO - Processing section 0
+[575] Biber.pm:4678> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[743] bibtex.pm:1713> INFO - LaTeX decoding ...
+[759] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
+[876] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[877] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[877] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[885] bbl.pm:676> INFO - Writing 'Comp-hist-Iglesia_main.bbl' with encoding 'UTF-8'
+[891] bbl.pm:779> INFO - Output to Comp-hist-Iglesia_main.bbl
+[891] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_zXwN\a9e03cb3043b9e2c02591da84105bb68_11540.utf8, line 9, warning: 1 characters of junk seen at toplevel
+[892] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_zXwN\a9e03cb3043b9e2c02591da84105bb68_11540.utf8, line 15, warning: 1 characters of junk seen at toplevel
+[892] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_zXwN\a9e03cb3043b9e2c02591da84105bb68_11540.utf8, line 21, warning: 1 characters of junk seen at toplevel
+[892] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_zXwN\a9e03cb3043b9e2c02591da84105bb68_11540.utf8, line 27, warning: 1 characters of junk seen at toplevel
+[892] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_zXwN\a9e03cb3043b9e2c02591da84105bb68_11540.utf8, line 33, warning: 1 characters of junk seen at toplevel
+[892] Biber.pm:134> INFO - WARNINGS: 5

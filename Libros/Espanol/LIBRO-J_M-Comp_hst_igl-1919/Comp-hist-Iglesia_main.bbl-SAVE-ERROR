@@ -19,45 +19,147 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
-    \entry{primer}{book}{}{}
+    \entry{Chevalier1894Topo}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=aa82e6bb12e3d81e7ba5973a3626070f}{%
-           family={Smedt},
-           familyi={S\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod},
-           prefix={de},
-           prefixi={d\bibinitperiod}}}%
+        {{hash=fcffe9dea8fd88dd038fe0ffae66123d}{%
+           family={Chevalier},
+           familyi={C\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=6ea7965f46b114ed5a33737ab12d2a3e}{%
-           family={Topo-bibliographie},
-           familyi={T\bibinithyphendelim b\bibinitperiod},
-           given={Montbél},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Gand. 1876}%
-      }
-      \strng{namehash}{aa82e6bb12e3d81e7ba5973a3626070f}
-      \strng{fullhash}{aa82e6bb12e3d81e7ba5973a3626070f}
-      \strng{fullhashraw}{aa82e6bb12e3d81e7ba5973a3626070f}
-      \strng{bibnamehash}{aa82e6bb12e3d81e7ba5973a3626070f}
-      \strng{authorbibnamehash}{aa82e6bb12e3d81e7ba5973a3626070f}
-      \strng{authornamehash}{aa82e6bb12e3d81e7ba5973a3626070f}
-      \strng{authorfullhash}{aa82e6bb12e3d81e7ba5973a3626070f}
-      \strng{authorfullhashraw}{aa82e6bb12e3d81e7ba5973a3626070f}
-      \strng{editorbibnamehash}{6ea7965f46b114ed5a33737ab12d2a3e}
-      \strng{editornamehash}{6ea7965f46b114ed5a33737ab12d2a3e}
-      \strng{editorfullhash}{6ea7965f46b114ed5a33737ab12d2a3e}
-      \strng{editorfullhashraw}{6ea7965f46b114ed5a33737ab12d2a3e}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \strng{namehash}{fcffe9dea8fd88dd038fe0ffae66123d}
+      \strng{fullhash}{fcffe9dea8fd88dd038fe0ffae66123d}
+      \strng{fullhashraw}{fcffe9dea8fd88dd038fe0ffae66123d}
+      \strng{bibnamehash}{fcffe9dea8fd88dd038fe0ffae66123d}
+      \strng{authorbibnamehash}{fcffe9dea8fd88dd038fe0ffae66123d}
+      \strng{authornamehash}{fcffe9dea8fd88dd038fe0ffae66123d}
+      \strng{authorfullhash}{fcffe9dea8fd88dd038fe0ffae66123d}
+      \strng{authorfullhashraw}{fcffe9dea8fd88dd038fe0ffae66123d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{C. de Smedt, Introductio generalis ad hist.\ ecclesiasticam critice tractandam, Gand. 1876. Chevalier, Répertoire des sources histor.\ du moyenâge I. Biobibliographie, 2.\ ed.\ Paris 1905; II.\ Topo-bibliographie, Montbél. 1894/1903; Potthast, Bibliotheca hist.\ medii aevi, 2.\ ed.}
-      \field{title}{Introductio generalis ad hist.\ ecclesiasticam critice tractandam}
-      \field{year}{1876}
+      \field{note}{Chevalier, Topo-Bibliographie, Par.\ 1894/3.\ 1/2; Spruner-Menke, Atlas antiquus, Gotha 1865; Wiltsch, Atlas sacer s.\ eccles.\ Gothae 1843; Streit, Kath. Missions-Atlas, Steil 1905; Werner, Orbis terrarum catholicus s.\ totius eccles.\ cath.\ et occidentis et orientis conspectus geograph.\ et statisticus, Ibd.\ 1890; Le Quien, Oriens christianus, Par.\ 1740 f.\ 1/3.}
+      \field{title}{Topo-Bibliographie}
+      \field{year}{1894}
+    \endentry
+    \entry{Mabillon1681DeReDiplomatica}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=eb02040cc738bdbf368435664c1e3023}{%
+           family={J.},
+           familyi={J\bibinitperiod},
+           given={Mabillon},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb02040cc738bdbf368435664c1e3023}
+      \strng{fullhash}{eb02040cc738bdbf368435664c1e3023}
+      \strng{fullhashraw}{eb02040cc738bdbf368435664c1e3023}
+      \strng{bibnamehash}{eb02040cc738bdbf368435664c1e3023}
+      \strng{authorbibnamehash}{eb02040cc738bdbf368435664c1e3023}
+      \strng{authornamehash}{eb02040cc738bdbf368435664c1e3023}
+      \strng{authorfullhash}{eb02040cc738bdbf368435664c1e3023}
+      \strng{authorfullhashraw}{eb02040cc738bdbf368435664c1e3023}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{J. Mabillon, De re Diplomatica, Paris 1681, 3.\ ed.\ Neap.\ 1789.\ 1/2; (Toustain et Tassin), Nouveau traité de diplomatique, Paris 17506/5, 1/6; Giry, Manuel de dipl. Par. 1894.}
+      \field{title}{De re Diplomatica}
+      \field{year}{1681}
+    \endentry
+    \entry{Petavius1703DeDoctrina}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3034002e95d1f6da31e123d175ed7cba}{%
+           family={Petavius},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3034002e95d1f6da31e123d175ed7cba}
+      \strng{fullhash}{3034002e95d1f6da31e123d175ed7cba}
+      \strng{fullhashraw}{3034002e95d1f6da31e123d175ed7cba}
+      \strng{bibnamehash}{3034002e95d1f6da31e123d175ed7cba}
+      \strng{authorbibnamehash}{3034002e95d1f6da31e123d175ed7cba}
+      \strng{authornamehash}{3034002e95d1f6da31e123d175ed7cba}
+      \strng{authorfullhash}{3034002e95d1f6da31e123d175ed7cba}
+      \strng{authorfullhashraw}{3034002e95d1f6da31e123d175ed7cba}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Petavius.\ De doctrina temporum, Antw.\ 1703, etc.; L'art de vérifier les dates des faites hist. Par. 1818/20, 1/5; Mas Latrie, Trésor de chronol., d'histoire, et de géogr.}
+      \field{title}{De doctrina temporum}
+      \field{year}{1703}
+    \endentry
+    \entry{Rossi1890Introductio}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0008e8891251d4a63f921a704ddb1bea}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={De},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0008e8891251d4a63f921a704ddb1bea}
+      \strng{fullhash}{0008e8891251d4a63f921a704ddb1bea}
+      \strng{fullhashraw}{0008e8891251d4a63f921a704ddb1bea}
+      \strng{bibnamehash}{0008e8891251d4a63f921a704ddb1bea}
+      \strng{authorbibnamehash}{0008e8891251d4a63f921a704ddb1bea}
+      \strng{authornamehash}{0008e8891251d4a63f921a704ddb1bea}
+      \strng{authorfullhash}{0008e8891251d4a63f921a704ddb1bea}
+      \strng{authorfullhashraw}{0008e8891251d4a63f921a704ddb1bea}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{De Rossi, introductio al vol.\ 1.\ de sus Inscriptiones (p. 9); Le Blant, L'épigraphie chrét.\ en Gaule et dans l'Afrique rom.\ Par.\ 1890; Paléographie des inscript.\ latines de la fin du 3e à la fin du 7e siècle.\ Par.\ 1898; Reinach, Traité d'épigraphie grecque.\ Par.\ 1886; Cagnat, Cours d'épigr.\ latine 3e éd.\ Par.\ 1898.}
+      \field{title}{introductio al vol.\ 1.\ de sus Inscriptiones (p. 9)}
+      \field{year}{1890}
+    \endentry
+    \entry{Silvestre1839Paleographie}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5172ee4490e0d92029ec1f6ba5858d7c}{%
+           family={Silvestre},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5172ee4490e0d92029ec1f6ba5858d7c}
+      \strng{fullhash}{5172ee4490e0d92029ec1f6ba5858d7c}
+      \strng{fullhashraw}{5172ee4490e0d92029ec1f6ba5858d7c}
+      \strng{bibnamehash}{5172ee4490e0d92029ec1f6ba5858d7c}
+      \strng{authorbibnamehash}{5172ee4490e0d92029ec1f6ba5858d7c}
+      \strng{authornamehash}{5172ee4490e0d92029ec1f6ba5858d7c}
+      \strng{authorfullhash}{5172ee4490e0d92029ec1f6ba5858d7c}
+      \strng{authorfullhashraw}{5172ee4490e0d92029ec1f6ba5858d7c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Silvestre, Paléographie universelle, Par.\ 1839 4/1, 1/4 fol.; Wattenbach, Anleitung zur lat.\ Paläogr.\ 4.\ ed.\ Leipzig 1886 4°; Id., Anleitung zur griech.\ Pal., ibd.\ 1867; Id., Das Schriftwesen des MA.\ 3.\ A.\ Ibd.\ 1896; Pflug-Hartung., Specimina palaeographica regestorum Rom.\ pont.\ ab Innocentio III.\ ad Urbanum V.\ Romae 1888 fol.}
+      \field{title}{Paléographie universelle}
+      \field{year}{1839}
+    \endentry
+    \entry{Stephanus1831Thesaurus}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=afbae8ee4d8e201b142767844c48f360}{%
+           family={Stephanus},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{afbae8ee4d8e201b142767844c48f360}
+      \strng{fullhash}{afbae8ee4d8e201b142767844c48f360}
+      \strng{fullhashraw}{afbae8ee4d8e201b142767844c48f360}
+      \strng{bibnamehash}{afbae8ee4d8e201b142767844c48f360}
+      \strng{authorbibnamehash}{afbae8ee4d8e201b142767844c48f360}
+      \strng{authornamehash}{afbae8ee4d8e201b142767844c48f360}
+      \strng{authorfullhash}{afbae8ee4d8e201b142767844c48f360}
+      \strng{authorfullhashraw}{afbae8ee4d8e201b142767844c48f360}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Stephanus, Thesaurus graece linguae, 3a ed.\ Paris 1831/65, 1/9; Du Cange, Glossarium ad scriptores mediae et infimae latinitatis, ed.\ nov.\ Favre, 1882/7.\ 1/10 4º y Gloss.\ ad script med.\ et inf, graecitatis, Lugd.\ 1388.\ 1/2.\ fol.\}
+      \field{title}{Thesaurus graece linguae, 3a ed.\}
+      \field{year}{1831}
     \endentry
   \enddatalist
 \endrefsection
