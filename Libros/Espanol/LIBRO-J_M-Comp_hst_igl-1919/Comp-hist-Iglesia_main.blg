@@ -1,20 +1,20 @@
-[0] Config.pm:328> INFO - This is Biber 2.21
+[1] Config.pm:328> INFO - This is Biber 2.21
 [1] Config.pm:331> INFO - Logfile is 'Comp-hist-Iglesia_main.blg'
-[242] biber-MSWIN64:342> INFO - === 
-[344] Biber.pm:421> INFO - Reading 'Comp-hist-Iglesia_main.bcf'
-[550] Biber.pm:1002> INFO - Found 8 citekeys in bib section 0
-[572] Biber.pm:4487> INFO - Processing section 0
-[594] Biber.pm:4678> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[741] bibtex.pm:1713> INFO - LaTeX decoding ...
-[771] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
-[884] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[884] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[884] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[894] bbl.pm:676> INFO - Writing 'Comp-hist-Iglesia_main.bbl' with encoding 'UTF-8'
-[900] bbl.pm:779> INFO - Output to Comp-hist-Iglesia_main.bbl
-[901] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_a9Fx\a9e03cb3043b9e2c02591da84105bb68_16356.utf8, line 9, warning: 1 characters of junk seen at toplevel
-[901] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_a9Fx\a9e03cb3043b9e2c02591da84105bb68_16356.utf8, line 15, warning: 1 characters of junk seen at toplevel
-[901] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_a9Fx\a9e03cb3043b9e2c02591da84105bb68_16356.utf8, line 21, warning: 1 characters of junk seen at toplevel
-[901] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_a9Fx\a9e03cb3043b9e2c02591da84105bb68_16356.utf8, line 27, warning: 1 characters of junk seen at toplevel
-[901] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_a9Fx\a9e03cb3043b9e2c02591da84105bb68_16356.utf8, line 33, warning: 1 characters of junk seen at toplevel
-[902] Biber.pm:134> INFO - WARNINGS: 5
+[193] biber-MSWIN64:342> INFO - === 
+[265] Biber.pm:421> INFO - Reading 'Comp-hist-Iglesia_main.bcf'
+[405] Biber.pm:1002> INFO - Found 15 citekeys in bib section 0
+[420] Biber.pm:4487> INFO - Processing section 0
+[434] Biber.pm:4678> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[544] bibtex.pm:1713> INFO - LaTeX decoding ...
+[573] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
+[725] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[725] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[725] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[740] bbl.pm:676> INFO - Writing 'Comp-hist-Iglesia_main.bbl' with encoding 'UTF-8'
+[753] bbl.pm:779> INFO - Output to Comp-hist-Iglesia_main.bbl
+[753] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_8hDq\a9e03cb3043b9e2c02591da84105bb68_15416.utf8, line 9, warning: 1 characters of junk seen at toplevel
+[753] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_8hDq\a9e03cb3043b9e2c02591da84105bb68_15416.utf8, line 15, warning: 1 characters of junk seen at toplevel
+[753] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_8hDq\a9e03cb3043b9e2c02591da84105bb68_15416.utf8, line 21, warning: 1 characters of junk seen at toplevel
+[754] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_8hDq\a9e03cb3043b9e2c02591da84105bb68_15416.utf8, line 27, warning: 1 characters of junk seen at toplevel
+[754] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_8hDq\a9e03cb3043b9e2c02591da84105bb68_15416.utf8, line 33, warning: 1 characters of junk seen at toplevel
+[754] Biber.pm:134> INFO - WARNINGS: 5

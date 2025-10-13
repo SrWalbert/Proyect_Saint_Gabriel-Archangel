@@ -19,6 +19,31 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{Natal1676Selecta}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b0228963439c3dcfad6f66d42ae638bc}{%
+           family={Alexandre},
+           familyi={A\bibinitperiod},
+           given={Natal},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0228963439c3dcfad6f66d42ae638bc}
+      \strng{fullhash}{b0228963439c3dcfad6f66d42ae638bc}
+      \strng{fullhashraw}{b0228963439c3dcfad6f66d42ae638bc}
+      \strng{bibnamehash}{b0228963439c3dcfad6f66d42ae638bc}
+      \strng{authorbibnamehash}{b0228963439c3dcfad6f66d42ae638bc}
+      \strng{authornamehash}{b0228963439c3dcfad6f66d42ae638bc}
+      \strng{authorfullhash}{b0228963439c3dcfad6f66d42ae638bc}
+      \strng{authorfullhashraw}{b0228963439c3dcfad6f66d42ae638bc}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Paris 1676 sqq.\ 8\textsuperscript{o} 1/30, 1699, 1714, 1730.}
+      \field{title}{Selecta hist.\ eccl.\ capita et in loca eiusdem insignia dissertationes historicae,chronologicae, criticae, dogmaticae}
+      \field{year}{1676}
+    \endentry
     \entry{Bardenhewer1901Patrologia}{book}{}{}
       \name{author}{1}{}{%
         {{hash=4e57f1c634012d3e486b586fa4c55e44}{%
@@ -43,6 +68,29 @@
       \field{title}{Patrología}
       \field{year}{1901}
     \endentry
+    \entry{Baronio1588Annales}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7060d4295697a5ed38dc72473632da3f}{%
+           family={Baronio},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7060d4295697a5ed38dc72473632da3f}
+      \strng{fullhash}{7060d4295697a5ed38dc72473632da3f}
+      \strng{fullhashraw}{7060d4295697a5ed38dc72473632da3f}
+      \strng{bibnamehash}{7060d4295697a5ed38dc72473632da3f}
+      \strng{authorbibnamehash}{7060d4295697a5ed38dc72473632da3f}
+      \strng{authornamehash}{7060d4295697a5ed38dc72473632da3f}
+      \strng{authorfullhash}{7060d4295697a5ed38dc72473632da3f}
+      \strng{authorfullhashraw}{7060d4295697a5ed38dc72473632da3f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Rom.\ 1588/1607 1/12 fol., Mogunt 1601 ss.\ Rom.\ 1607, Antverp: 1610, Colon.\ 1610, Venet.\ 1738.}
+      \field{title}{Annales eccles.}
+      \field{year}{1588}
+    \endentry
     \entry{Chevalier1894Topo}{book}{}{}
       \name{author}{1}{}{%
         {{hash=fcffe9dea8fd88dd038fe0ffae66123d}{%
@@ -65,6 +113,57 @@
       \field{note}{Chevalier, Topo-Bibliographie, Par.\ 1894/3.\ 1/2; Spruner-Menke, Atlas antiquus, Gotha 1865; Wiltsch, Atlas sacer s.\ eccles.\ Gothae 1843; Streit, Kath. Missions-Atlas, Steil 1905; Werner, Orbis terrarum catholicus s.\ totius eccles.\ cath.\ et occidentis et orientis conspectus geograph.\ et statisticus, Ibd.\ 1890; Le Quien, Oriens christianus, Par.\ 1740 f.\ 1/3.}
       \field{title}{Topo-Bibliographie}
       \field{year}{1894}
+    \endentry
+    \entry{Duchesne1884Liber}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0b59ba59ac3027f8818fd54a290811ae}{%
+           family={Duchesne},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b59ba59ac3027f8818fd54a290811ae}
+      \strng{fullhash}{0b59ba59ac3027f8818fd54a290811ae}
+      \strng{fullhashraw}{0b59ba59ac3027f8818fd54a290811ae}
+      \strng{bibnamehash}{0b59ba59ac3027f8818fd54a290811ae}
+      \strng{authorbibnamehash}{0b59ba59ac3027f8818fd54a290811ae}
+      \strng{authornamehash}{0b59ba59ac3027f8818fd54a290811ae}
+      \strng{authorfullhash}{0b59ba59ac3027f8818fd54a290811ae}
+      \strng{authorfullhashraw}{0b59ba59ac3027f8818fd54a290811ae}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{PL.\ 127; Duchesne, Liber pontif.\ Paris 1884/92, 1/2; Th.\ Mommsen; MG.\ Cesta pont.\ rom.\ 1/?}
+      \field{title}{Liber pontif.}
+      \field{year}{1884}
+    \endentry
+    \entry{FleuryFabre1691Histoire}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=37dbf4b660657267dae4cb859c8ee078}{%
+           family={Fleury},
+           familyi={F\bibinitperiod}}}%
+        {{hash=e72eedd62f840dfbcd582f3e7d5bb5e8}{%
+           family={Fabre},
+           familyi={F\bibinitperiod},
+           given={Cl.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{eca6c52d4a49af304d0bc5e2bb380e50}
+      \strng{fullhash}{eca6c52d4a49af304d0bc5e2bb380e50}
+      \strng{fullhashraw}{eca6c52d4a49af304d0bc5e2bb380e50}
+      \strng{bibnamehash}{eca6c52d4a49af304d0bc5e2bb380e50}
+      \strng{authorbibnamehash}{eca6c52d4a49af304d0bc5e2bb380e50}
+      \strng{authornamehash}{eca6c52d4a49af304d0bc5e2bb380e50}
+      \strng{authorfullhash}{eca6c52d4a49af304d0bc5e2bb380e50}
+      \strng{authorfullhashraw}{eca6c52d4a49af304d0bc5e2bb380e50}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Paris 1691 ss.\ 4\textsuperscript{o} 1/20.}
+      \field{title}{Histoire ecclésiastique}
+      \field{year}{1691}
     \endentry
     \entry{Mabillon1681DeReDiplomatica}{book}{}{}
       \name{author}{1}{}{%
@@ -91,6 +190,29 @@
       \field{title}{De re Diplomatica}
       \field{year}{1681}
     \endentry
+    \entry{Magdeb1559Eccles}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=22239c2091919054989b215ab9673637}{%
+           family={Magdeb},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{22239c2091919054989b215ab9673637}
+      \strng{fullhash}{22239c2091919054989b215ab9673637}
+      \strng{fullhashraw}{22239c2091919054989b215ab9673637}
+      \strng{bibnamehash}{22239c2091919054989b215ab9673637}
+      \strng{authorbibnamehash}{22239c2091919054989b215ab9673637}
+      \strng{authornamehash}{22239c2091919054989b215ab9673637}
+      \strng{authorfullhash}{22239c2091919054989b215ab9673637}
+      \strng{authorfullhashraw}{22239c2091919054989b215ab9673637}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{1559/74, 1/13, 2.\ ed.\ 1624, 3.\ ed.\ 1757.}
+      \field{title}{Eccles.\ historia}
+      \field{year}{1559}
+    \endentry
     \entry{Niebuhr1829Corpus}{book}{}{}
       \name{author}{1}{}{%
         {{hash=8c7797c0aecfa8de2e4cc137b69e4e78}{%
@@ -115,6 +237,32 @@
       \field{note}{Bonnae ss.\ 8\textsuperscript{o}. 1/20.}
       \field{title}{Corpus scriptor}
       \field{year}{1829}
+    \endentry
+    \entry{OrsiBecchetti1752Storia}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=5eec81f6befa7855a2015661f826f139}{%
+           family={Orsi},
+           familyi={O\bibinitperiod}}}%
+        {{hash=a07c2223fe52e8364da9c2835a0bbfa9}{%
+           family={Becchetti},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{402f924d4b346a65d0fddd0636fa44e7}
+      \strng{fullhash}{402f924d4b346a65d0fddd0636fa44e7}
+      \strng{fullhashraw}{402f924d4b346a65d0fddd0636fa44e7}
+      \strng{bibnamehash}{402f924d4b346a65d0fddd0636fa44e7}
+      \strng{authorbibnamehash}{402f924d4b346a65d0fddd0636fa44e7}
+      \strng{authornamehash}{402f924d4b346a65d0fddd0636fa44e7}
+      \strng{authorfullhash}{402f924d4b346a65d0fddd0636fa44e7}
+      \strng{authorfullhashraw}{402f924d4b346a65d0fddd0636fa44e7}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Roma, sqq.\ 8\textsuperscript{o} 1/20}
+      \field{title}{Storia ecclesiastica}
+      \field{year}{1752}
     \endentry
     \entry{Petavius1703DeDoctrina}{book}{}{}
       \name{author}{1}{}{%
@@ -209,6 +357,31 @@
       \field{note}{Stephanus, Thesaurus graece linguae, 3a ed.\ Paris 1831/65, 1/9; Du Cange, Glossarium ad scriptores mediae et infimae latinitatis, ed.\ nov.\ Favre, 1882/7.\ 1/10 4\textsuperscript{o} y Gloss.\ ad script med.\ et inf, graecitatis, Lugd.\ 1388.\ 1/2.\ fol.}
       \field{title}{Thesaurus graece linguae, 3a ed.}
       \field{year}{1831}
+    \endentry
+    \entry{Tillemont1693Mem}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=79935a585528f85600f932293cd16bbf}{%
+           family={Tillemont},
+           familyi={T\bibinitperiod},
+           given={Sebastián\bibnamedelimb Le\bibnamedelima Nain},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{79935a585528f85600f932293cd16bbf}
+      \strng{fullhash}{79935a585528f85600f932293cd16bbf}
+      \strng{fullhashraw}{79935a585528f85600f932293cd16bbf}
+      \strng{bibnamehash}{79935a585528f85600f932293cd16bbf}
+      \strng{authorbibnamehash}{79935a585528f85600f932293cd16bbf}
+      \strng{authornamehash}{79935a585528f85600f932293cd16bbf}
+      \strng{authorfullhash}{79935a585528f85600f932293cd16bbf}
+      \strng{authorfullhashraw}{79935a585528f85600f932293cd16bbf}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Paris 1693 4\textsuperscript{o} 1/16.}
+      \field{title}{Mém.\ pour servir à l'hist.\ eccl.\ des dix premiers siècles}
+      \field{year}{1693}
     \endentry
   \enddatalist
 \endrefsection

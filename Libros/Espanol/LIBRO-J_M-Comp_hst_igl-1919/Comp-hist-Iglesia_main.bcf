@@ -2381,6 +2381,13 @@
     <bcf:citekey order="6" intorder="1">Rossi1890Introductio</bcf:citekey>
     <bcf:citekey order="7" intorder="1">Bardenhewer1901Patrologia</bcf:citekey>
     <bcf:citekey order="8" intorder="1">Niebuhr1829Corpus</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Duchesne1884Liber</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Magdeb1559Eccles</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">OrsiBecchetti1752Storia</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Baronio1588Annales</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Natal1676Selecta</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">FleuryFabre1691Histoire</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Tillemont1693Mem</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
