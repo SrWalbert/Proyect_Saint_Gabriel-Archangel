@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  18 OCT 2025 11:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  18 OCT 2025 15:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -342,7 +342,12 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
-) (PORTADA_BASE.aux
+)
+
+LaTeX Warning: Unused global option(s):
+    [openright].
+
+(PORTADA_BASE.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
@@ -459,10 +464,10 @@ Package rerunfilecheck Info: File `PORTADA_BASE.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13337 strings out of 468134
- 208731 string characters out of 5430740
- 631022 words of memory out of 5000000
- 41787 multiletter control sequences out of 15000+600000
+ 13340 strings out of 468134
+ 208781 string characters out of 5430740
+ 631093 words of memory out of 5000000
+ 41790 multiletter control sequences out of 15000+600000
  629432 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,79p,463b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s

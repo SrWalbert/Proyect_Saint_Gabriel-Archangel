@@ -253,7 +253,6 @@ INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx248
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
 INPUT C:\Users\walbe\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsl1200.tfm
 INPUT .\Comp-hist-Iglesia_main.toc
 INPUT .\Comp-hist-Iglesia_main.toc
 INPUT Comp-hist-Iglesia_main.toc
@@ -281,6 +280,7 @@ INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsl1200.tfm
 OUTPUT Comp-hist-Iglesia_main.toc
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1728.tfm
