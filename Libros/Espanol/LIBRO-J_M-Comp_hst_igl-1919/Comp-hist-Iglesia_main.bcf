@@ -2391,6 +2391,10 @@
     <bcf:citekey order="16" intorder="1">HilgenfeldHarnack1884Dogmengeschichte</bcf:citekey>
     <bcf:citekey order="17" intorder="1">Saussaye1898Religionsgeschichte</bcf:citekey>
     <bcf:citekey order="18" intorder="1">Shrors1905Nicht</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Flavius1856Opera</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Schurer1910Geschichte</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Eusebius313Preparatio</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">SanAgustin426DeCivitate</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

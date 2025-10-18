@@ -1,21 +1,20 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'Comp-hist-Iglesia_main.blg'
-[230] biber-MSWIN64:342> INFO - === 
-[311] Biber.pm:421> INFO - Reading 'Comp-hist-Iglesia_main.bcf'
-[540] Biber.pm:1002> INFO - Found 18 citekeys in bib section 0
-[564] Biber.pm:4487> INFO - Processing section 0
-[582] Biber.pm:4678> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[714] bibtex.pm:1713> INFO - LaTeX decoding ...
-[741] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
-[893] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[893] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[893] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[933] bbl.pm:676> INFO - Writing 'Comp-hist-Iglesia_main.bbl' with encoding 'UTF-8'
-[946] bbl.pm:779> INFO - Output to Comp-hist-Iglesia_main.bbl
-[946] Biber.pm:132> WARN - legacy year field 'Frbg.\ 1905' in entry 'Shrors1905Nicht' is not an integer - this will probably not sort properly.
-[946] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_t6sp\a9e03cb3043b9e2c02591da84105bb68_11704.utf8, line 9, warning: 1 characters of junk seen at toplevel
-[946] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_t6sp\a9e03cb3043b9e2c02591da84105bb68_11704.utf8, line 15, warning: 1 characters of junk seen at toplevel
-[946] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_t6sp\a9e03cb3043b9e2c02591da84105bb68_11704.utf8, line 21, warning: 1 characters of junk seen at toplevel
-[947] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_t6sp\a9e03cb3043b9e2c02591da84105bb68_11704.utf8, line 27, warning: 1 characters of junk seen at toplevel
-[947] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_t6sp\a9e03cb3043b9e2c02591da84105bb68_11704.utf8, line 33, warning: 1 characters of junk seen at toplevel
-[947] Biber.pm:134> INFO - WARNINGS: 6
+[182] biber-MSWIN64:342> INFO - === 
+[251] Biber.pm:421> INFO - Reading 'Comp-hist-Iglesia_main.bcf'
+[397] Biber.pm:1002> INFO - Found 22 citekeys in bib section 0
+[413] Biber.pm:4487> INFO - Processing section 0
+[428] Biber.pm:4678> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[518] bibtex.pm:1713> INFO - LaTeX decoding ...
+[544] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
+[690] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[690] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[690] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[715] bbl.pm:676> INFO - Writing 'Comp-hist-Iglesia_main.bbl' with encoding 'UTF-8'
+[729] bbl.pm:779> INFO - Output to Comp-hist-Iglesia_main.bbl
+[729] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_9ozo\a9e03cb3043b9e2c02591da84105bb68_2032.utf8, line 9, warning: 1 characters of junk seen at toplevel
+[729] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_9ozo\a9e03cb3043b9e2c02591da84105bb68_2032.utf8, line 15, warning: 1 characters of junk seen at toplevel
+[730] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_9ozo\a9e03cb3043b9e2c02591da84105bb68_2032.utf8, line 21, warning: 1 characters of junk seen at toplevel
+[730] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_9ozo\a9e03cb3043b9e2c02591da84105bb68_2032.utf8, line 27, warning: 1 characters of junk seen at toplevel
+[730] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_9ozo\a9e03cb3043b9e2c02591da84105bb68_2032.utf8, line 33, warning: 1 characters of junk seen at toplevel
+[730] Biber.pm:134> INFO - WARNINGS: 5

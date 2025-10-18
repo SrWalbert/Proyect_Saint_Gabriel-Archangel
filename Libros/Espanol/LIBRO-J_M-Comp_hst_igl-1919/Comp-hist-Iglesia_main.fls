@@ -33,6 +33,22 @@ INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.de
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\babel-greek\greek.ldf
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\babel-greek\greek.ldf
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\babel-greek\greek.ldf
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\el\babel-greek.tex
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\el\babel-greek.tex
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\el\babel-greek.tex
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\el\babel-el.ini
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\lgrenc.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\lgrenc.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\lgrenc.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-inputenc\lgrenc.dfu
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-inputenc\lgrenc.dfu
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-inputenc\lgrenc.dfu
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\greek-fontenc.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\greek-fontenc.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\greek-fontenc.def
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
@@ -181,6 +197,10 @@ INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.s
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\puenc-greek.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\puenc-greek.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\puenc-greek.def
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\greek-fontenc.def
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
@@ -196,6 +216,9 @@ INPUT .\Comp-hist-Iglesia_main.aux
 INPUT .\Comp-hist-Iglesia_main.aux
 INPUT Comp-hist-Iglesia_main.aux
 OUTPUT Comp-hist-Iglesia_main.aux
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -207,6 +230,9 @@ INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\greek.lbx
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\greek.lbx
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\greek.lbx
 OUTPUT Comp-hist-Iglesia_main.bcf
 INPUT Comp-hist-Iglesia_main.bbl
 INPUT .\Comp-hist-Iglesia_main.bbl
@@ -273,6 +299,7 @@ INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0700.tfm
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
 INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cbgreek\grmn1200.tfm
 INPUT Comp-hist-Iglesia_main.aux
 INPUT .\Comp-hist-Iglesia_main.out
 INPUT .\Comp-hist-Iglesia_main.out
@@ -308,3 +335,5 @@ INPUT C:\Users\walbe\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecr
 INPUT C:\Users\walbe\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk
 INPUT C:\Users\walbe\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
 INPUT C:\Users\walbe\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\type1\public\cbgreek\grmn1200.pfb
+INPUT C:\Users\walbe\AppData\Local\Programs\MiKTeX\fonts\type1\public\cbgreek\grmn1200.pfb
