@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {2.4}Método de la Historia Eclesiástica}{22}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Desenvolvimiento de la Historia Eclesiástica}{23}{section.2.5}%
 \contentsline {part}{\EnsureStandardFontEncoding {I}\hspace {1em}Época Pimera. Primer Período: de las persecuciones del Cristianismo hata el edicto de Constantino}{28}{part.1}%
-\contentsline {chapter}{\numberline {3}Edo.\ relig.\ del mundo a la apar.\ del cristanismo}{30}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Capítulo Primero: Estado religioso y social del mundo, a la aparición del Cristianismo}{30}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Estado del Judaísmo}{30}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Estado del paganismo en el Imperio Romano}{32}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Preparación de los paganos para el Cristianismo}{32}{subsection.3.2.1}%
