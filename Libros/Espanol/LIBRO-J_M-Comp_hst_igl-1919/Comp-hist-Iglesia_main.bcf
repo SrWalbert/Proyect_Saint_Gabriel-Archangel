@@ -2395,6 +2395,15 @@
     <bcf:citekey order="20" intorder="1">Schurer1910Geschichte</bcf:citekey>
     <bcf:citekey order="21" intorder="1">Eusebius313Preparatio</bcf:citekey>
     <bcf:citekey order="22" intorder="1">SanAgustin426DeCivitate</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Virgil40EglogaIV</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Tertuliano202Spectaculis</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Origenes248ContraCelsum</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Suetonio121DeVitaCaesarum</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

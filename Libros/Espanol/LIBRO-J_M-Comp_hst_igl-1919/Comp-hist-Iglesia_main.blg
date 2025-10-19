@@ -1,20 +1,20 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
-[1] Config.pm:331> INFO - Logfile is 'Comp-hist-Iglesia_main.blg'
-[432] biber-MSWIN64:342> INFO - === 
-[576] Biber.pm:421> INFO - Reading 'Comp-hist-Iglesia_main.bcf'
-[951] Biber.pm:1002> INFO - Found 22 citekeys in bib section 0
-[986] Biber.pm:4487> INFO - Processing section 0
-[1005] Biber.pm:4678> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[1138] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1188] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
-[1468] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1469] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1469] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[1502] bbl.pm:676> INFO - Writing 'Comp-hist-Iglesia_main.bbl' with encoding 'UTF-8'
-[1517] bbl.pm:779> INFO - Output to Comp-hist-Iglesia_main.bbl
-[1518] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_sBKw\a9e03cb3043b9e2c02591da84105bb68_3104.utf8, line 9, warning: 1 characters of junk seen at toplevel
-[1518] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_sBKw\a9e03cb3043b9e2c02591da84105bb68_3104.utf8, line 15, warning: 1 characters of junk seen at toplevel
-[1518] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_sBKw\a9e03cb3043b9e2c02591da84105bb68_3104.utf8, line 21, warning: 1 characters of junk seen at toplevel
-[1518] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_sBKw\a9e03cb3043b9e2c02591da84105bb68_3104.utf8, line 27, warning: 1 characters of junk seen at toplevel
-[1518] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_sBKw\a9e03cb3043b9e2c02591da84105bb68_3104.utf8, line 33, warning: 1 characters of junk seen at toplevel
-[1518] Biber.pm:134> INFO - WARNINGS: 5
+[0] Config.pm:331> INFO - Logfile is 'Comp-hist-Iglesia_main.blg'
+[126] biber-MSWIN64:342> INFO - === 
+[176] Biber.pm:421> INFO - Reading 'Comp-hist-Iglesia_main.bcf'
+[288] Biber.pm:1002> INFO - Found 27 citekeys in bib section 0
+[300] Biber.pm:4487> INFO - Processing section 0
+[310] Biber.pm:4678> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[396] bibtex.pm:1713> INFO - LaTeX decoding ...
+[414] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
+[527] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[528] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[528] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[543] bbl.pm:676> INFO - Writing 'Comp-hist-Iglesia_main.bbl' with encoding 'UTF-8'
+[554] bbl.pm:779> INFO - Output to Comp-hist-Iglesia_main.bbl
+[555] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_cn7p\a9e03cb3043b9e2c02591da84105bb68_16540.utf8, line 9, warning: 1 characters of junk seen at toplevel
+[555] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_cn7p\a9e03cb3043b9e2c02591da84105bb68_16540.utf8, line 15, warning: 1 characters of junk seen at toplevel
+[555] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_cn7p\a9e03cb3043b9e2c02591da84105bb68_16540.utf8, line 21, warning: 1 characters of junk seen at toplevel
+[555] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_cn7p\a9e03cb3043b9e2c02591da84105bb68_16540.utf8, line 27, warning: 1 characters of junk seen at toplevel
+[555] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\walbe\AppData\Local\Temp\biber_tmp_cn7p\a9e03cb3043b9e2c02591da84105bb68_16540.utf8, line 33, warning: 1 characters of junk seen at toplevel
+[556] Biber.pm:134> INFO - WARNINGS: 5
