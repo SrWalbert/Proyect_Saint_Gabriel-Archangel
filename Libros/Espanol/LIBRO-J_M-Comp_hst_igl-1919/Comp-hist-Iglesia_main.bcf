@@ -2400,10 +2400,11 @@
     <bcf:citekey order="25" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
     <bcf:citekey order="26" intorder="1">Origenes248ContraCelsum</bcf:citekey>
     <bcf:citekey order="27" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">Suetonio121DeVitaCaesarum</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Suetonio121DeVitaCaesarum</bcf:citekey>
     <bcf:citekey order="30" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
     <bcf:citekey order="31" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Tertuliano197Apologeticum</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

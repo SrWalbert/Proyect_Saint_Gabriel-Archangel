@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  18 OCT 2025 20:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  18 OCT 2025 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1543,17 +1543,17 @@ Package logreq Info: Writing requests to 'Comp-hist-Iglesia_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24192 strings out of 468134
- 420230 string characters out of 5430740
- 1276936 words of memory out of 5000000
- 52001 multiletter control sequences out of 15000+600000
+ 24193 strings out of 468134
+ 420243 string characters out of 5430740
+ 1276941 words of memory out of 5000000
+ 52002 multiletter control sequences out of 15000+600000
  646649 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,8n,70p,3806b,2389s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/walbe/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn1000.pfb><C:/Users/walbe/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn1200.pfb>
-Output written on Comp-hist-Iglesia_main.pdf (73 pages, 650605 bytes).
+Output written on Comp-hist-Iglesia_main.pdf (73 pages, 650804 bytes).
 PDF statistics:
- 2580 PDF objects out of 2984 (max. 8388607)
+ 2581 PDF objects out of 2984 (max. 8388607)
  512 named destinations out of 1000 (max. 500000)
  1769 words of extra memory for PDF output out of 10000 (max. 10000000)
 
