@@ -359,6 +359,29 @@
       \field{title}{Corpus scriptor}
       \field{year}{1829}
     \endentry
+    \entry{Origenes248ContraCelsum}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=83ac750b254406aa9e161feabdef3d69}{%
+           family={Origenes},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{83ac750b254406aa9e161feabdef3d69}
+      \strng{fullhash}{83ac750b254406aa9e161feabdef3d69}
+      \strng{fullhashraw}{83ac750b254406aa9e161feabdef3d69}
+      \strng{bibnamehash}{83ac750b254406aa9e161feabdef3d69}
+      \strng{authorbibnamehash}{83ac750b254406aa9e161feabdef3d69}
+      \strng{authornamehash}{83ac750b254406aa9e161feabdef3d69}
+      \strng{authorfullhash}{83ac750b254406aa9e161feabdef3d69}
+      \strng{authorfullhashraw}{83ac750b254406aa9e161feabdef3d69}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Capítulos 8 a 21}
+      \field{title}{Contra Celsum}
+      \field{year}{248}
+    \endentry
     \entry{OrsiBecchetti1752Storia}{book}{}{}
       \name{author}{2}{}{%
         {{hash=5eec81f6befa7855a2015661f826f139}{%
@@ -548,6 +571,96 @@
       \field{note}{Stephanus, Thesaurus graece linguae, 3a ed.\ Paris 1831/65, 1/9; Du Cange, Glossarium ad scriptores mediae et infimae latinitatis, ed.\ nov.\ Favre, 1882/7.\ 1/10 4\textsuperscript{o} y Gloss.\ ad script med.\ et inf, graecitatis, Lugd.\ 1388.\ 1/2.\ fol.}
       \field{title}{Thesaurus graece linguae, 3a ed.}
       \field{year}{1831}
+    \endentry
+    \entry{Suetonio121DeVitaCaesarum}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e48e2e3d85036f8d8eb245f91f06327b}{%
+           family={Suetonio},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e48e2e3d85036f8d8eb245f91f06327b}
+      \strng{fullhash}{e48e2e3d85036f8d8eb245f91f06327b}
+      \strng{fullhashraw}{e48e2e3d85036f8d8eb245f91f06327b}
+      \strng{bibnamehash}{e48e2e3d85036f8d8eb245f91f06327b}
+      \strng{authorbibnamehash}{e48e2e3d85036f8d8eb245f91f06327b}
+      \strng{authornamehash}{e48e2e3d85036f8d8eb245f91f06327b}
+      \strng{authorfullhash}{e48e2e3d85036f8d8eb245f91f06327b}
+      \strng{authorfullhashraw}{e48e2e3d85036f8d8eb245f91f06327b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{De vita Caesarum --- Domitianus}
+      \field{year}{121}
+    \endentry
+    \entry{Tertuliano197Apologeticum}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=52d4961d6f7ef228d9f022e54d863e99}{%
+           family={Tertuliano},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{fullhash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{fullhashraw}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{bibnamehash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{authorbibnamehash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{authornamehash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{authorfullhash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{authorfullhashraw}{52d4961d6f7ef228d9f022e54d863e99}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Apologeticum}
+      \field{year}{197}
+    \endentry
+    \entry{Tertuliano202Spectaculis}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=52d4961d6f7ef228d9f022e54d863e99}{%
+           family={Tertuliano},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{fullhash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{fullhashraw}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{bibnamehash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{authorbibnamehash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{authornamehash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{authorfullhash}{52d4961d6f7ef228d9f022e54d863e99}
+      \strng{authorfullhashraw}{52d4961d6f7ef228d9f022e54d863e99}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Capítulos 1 y 2}
+      \field{title}{De Spectaculis}
+      \field{year}{202}
+    \endentry
+    \entry{Virgil40EglogaIV}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3b28ee7ff7de0d16a1d1fcb3825f28d9}{%
+           family={Virgil},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b28ee7ff7de0d16a1d1fcb3825f28d9}
+      \strng{fullhash}{3b28ee7ff7de0d16a1d1fcb3825f28d9}
+      \strng{fullhashraw}{3b28ee7ff7de0d16a1d1fcb3825f28d9}
+      \strng{bibnamehash}{3b28ee7ff7de0d16a1d1fcb3825f28d9}
+      \strng{authorbibnamehash}{3b28ee7ff7de0d16a1d1fcb3825f28d9}
+      \strng{authornamehash}{3b28ee7ff7de0d16a1d1fcb3825f28d9}
+      \strng{authorfullhash}{3b28ee7ff7de0d16a1d1fcb3825f28d9}
+      \strng{authorfullhashraw}{3b28ee7ff7de0d16a1d1fcb3825f28d9}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{4/10 y 13/14. 40 a.\ de J.-C.}
+      \field{title}{Egloga IV}
+      \field{year}{40}
     \endentry
   \enddatalist
 \endrefsection

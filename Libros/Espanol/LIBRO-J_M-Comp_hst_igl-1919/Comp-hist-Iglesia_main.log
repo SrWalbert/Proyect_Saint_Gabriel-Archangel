@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  18 OCT 2025 19:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.19)  18 OCT 2025 20:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1286,8 +1286,8 @@ Overfull \hbox (243.11053pt too wide) has occurred while \output is active
 
 [32]
 
-LaTeX Info: Redefining \. on input line 410.
-LaTeX Info: Redefining \% on input line 410.
+LaTeX Info: Redefining \. on input line 412.
+LaTeX Info: Redefining \% on input line 412.
 [33]
 
 LaTeX Info: Redefining \. on input line 419.
@@ -1299,12 +1299,12 @@ Overfull \hbox (243.11053pt too wide) has occurred while \output is active
 
 [34]
 
-LaTeX Info: Redefining \. on input line 426.
-LaTeX Info: Redefining \% on input line 426.
+LaTeX Info: Redefining \. on input line 434.
+LaTeX Info: Redefining \% on input line 434.
 [35]
 
-LaTeX Info: Redefining \. on input line 436.
-LaTeX Info: Redefining \% on input line 436.
+LaTeX Info: Redefining \. on input line 434.
+LaTeX Info: Redefining \% on input line 434.
 
 Overfull \hbox (243.11053pt too wide) has occurred while \output is active
 \T1/cmr/m/n/12 36 \T1/cmr/m/sl/12 CAPÍTULO 3.  CAPÍTULO PRIMERO: ESTADO RELIGIOSO Y SOCIAL DEL MUNDO, A LA APARICIÓN DEL CRISTIANISMO
@@ -1363,7 +1363,7 @@ Cap\'{\i }tulo 10.
 ]
 Cap\'{\i }tulo 11.
 
-Overfull \hbox (3.51854pt too wide) in paragraph at lines 489--489
+Overfull \hbox (3.51854pt too wide) in paragraph at lines 487--487
 []\T1/cmr/bx/n/17.28 El pon-ti-fi-ca-do y el Im-pe-rio des-de San Car-lo-Magno
  []
 
@@ -1446,7 +1446,7 @@ Cap\'{\i }tulo 21.
 ]
 Cap\'{\i }tulo 22.
 
-Overfull \hbox (1.51715pt too wide) in paragraph at lines 554--554
+Overfull \hbox (1.51715pt too wide) in paragraph at lines 552--552
 []\T1/cmr/bx/n/17.28 Organización de las igle-sias te-rri-to-ria-les. Los prín-
  []
 
@@ -1459,8 +1459,8 @@ Overfull \vbox (103.05867pt too high) has occurred while \output is active []
 
 
 
-LaTeX Info: Redefining \. on input line 563.
-LaTeX Info: Redefining \% on input line 563.
+LaTeX Info: Redefining \. on input line 561.
+LaTeX Info: Redefining \% on input line 561.
 [61]
 Cap\'{\i }tulo 23.
 
@@ -1525,8 +1525,8 @@ Cap\'{\i }tulo 31.
 
 ]
 
-LaTeX Info: Redefining \. on input line 622.
-LaTeX Info: Redefining \% on input line 622.
+LaTeX Info: Redefining \. on input line 620.
+LaTeX Info: Redefining \% on input line 620.
 [73] (Comp-hist-Iglesia_main.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
@@ -1536,33 +1536,24 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `Comp-hist-Iglesia_main.out' has not changed.
 (rerunfilecheck)             Checksum: A07F5DE03E292B777B3EF7C995C715F6;57172.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Comp-hist-Iglesia_main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'Comp-hist-Iglesia_main.run.xml'.
 \openout1 = `Comp-hist-Iglesia_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24193 strings out of 468134
- 420238 string characters out of 5430740
+ 24192 strings out of 468134
+ 420230 string characters out of 5430740
  1276936 words of memory out of 5000000
  52001 multiletter control sequences out of 15000+600000
  646649 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,8n,70p,3808b,2389s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,8n,70p,3806b,2389s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <C:\Users\walbe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/walbe/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn1000.pfb><C:/Users/walbe/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn1200.pfb>
-Output written on Comp-hist-Iglesia_main.pdf (73 pages, 651000 bytes).
+Output written on Comp-hist-Iglesia_main.pdf (73 pages, 650605 bytes).
 PDF statistics:
- 2581 PDF objects out of 2984 (max. 8388607)
- 513 named destinations out of 1000 (max. 500000)
+ 2580 PDF objects out of 2984 (max. 8388607)
+ 512 named destinations out of 1000 (max. 500000)
  1769 words of extra memory for PDF output out of 10000 (max. 10000000)
 
