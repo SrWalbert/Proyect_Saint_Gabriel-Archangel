@@ -66,6 +66,28 @@
       \field{title}{Annales eccles.}
       \field{year}{1588}
     \endentry
+    \entry{Cecilio197Minucio}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=898ecccb7d8cc351750107b6c21a27f3}{%
+           family={Cecilio},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{898ecccb7d8cc351750107b6c21a27f3}
+      \strng{fullhash}{898ecccb7d8cc351750107b6c21a27f3}
+      \strng{fullhashraw}{898ecccb7d8cc351750107b6c21a27f3}
+      \strng{bibnamehash}{898ecccb7d8cc351750107b6c21a27f3}
+      \strng{authorbibnamehash}{898ecccb7d8cc351750107b6c21a27f3}
+      \strng{authornamehash}{898ecccb7d8cc351750107b6c21a27f3}
+      \strng{authorfullhash}{898ecccb7d8cc351750107b6c21a27f3}
+      \strng{authorfullhashraw}{898ecccb7d8cc351750107b6c21a27f3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Minucio Felix, Octavio}
+      \field{year}{197}
+    \endentry
     \entry{Saussaye1898Religionsgeschichte}{book}{}{}
       \name{author}{1}{}{%
         {{hash=1d26c588f0c506e16dbeeb7a85547c00}{%
